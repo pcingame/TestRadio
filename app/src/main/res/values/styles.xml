@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="appButton_radius21" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">@dimen/font_size_22sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:padding">@dimen/_14dp</item>
+        <item name="android:background">@drawable/bg_button_app_disable_niceblue</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>

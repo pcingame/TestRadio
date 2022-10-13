@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_button_app_red_default" tools:ignore="StateListReachable" />
+    <item android:drawable="@drawable/bg_button_app_red_press" android:state_pressed="true" />
+</selector>

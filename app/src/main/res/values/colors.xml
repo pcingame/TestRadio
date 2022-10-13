@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4B4B4B</color>
+    <color name="colorAccent">#0880f7</color>
+    <color name="colorPrimaryDark">#E0E0E0</color>
+
+    <color name="colorDarkBlue">#000FC8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorTitleGray">#737373</color>
+    <color name="colorDisable">#9E9E9E</color>
+    <color name="colorBorder">#b7b7b7</color>
+    <color name="colorContent">#383838</color>
+    <color name="colorWarring">#C80000</color>
+    <color name="colorCancelBg">#808693</color>
+    <color name="colorNiceBlue">#005CB7</color>
+    <color name="colorNiceBlueSelected">#3d8dc7</color>
+    <color name="colorNiceBlueDisable">#9ec6e3</color>
+    <color name="deepSkyBlue">#0880f7</color>
+    <color name="text_color_default">#1A1A1A</color>
+    <color name="text_color_blur">#737373</color>
+    <color name="text_color_medication_guide">#7f7f7f</color>
+    <color name="text_color_day_legend">#A1A5B2</color>
+
+    <color name="error_color">#C62828</color>
+    // Error color (Red 800)
+    <color name="hint_color_active">@color/colorNiceBlue</color>
+    // Active label color (Teal 600)
+    <color name="hint_color_inactive">#9E9E9E</color>
+    // Inactive label / Hint (Grey 500)
+
+    <color name="bg_bottom">#E0E0E0</color>
+    <color name="textColorMenu">#7f7f7f</color>
+    <color name="warmGreyTwo">#7f7f7f</color>
+    <color name="textColorMenuSelected">#000FC8</color>
+    <color name="colorDate">#1a1a1a</color>
+    <color name="colorTitle">#1a1a1a</color>
+    <color name="paleGrey">#ebedf0</color>
+
+    <color name="line_color">#E4E4E4</color>
+    <color name="link_color">#005CB7</color>
+    <color name="color_title_omron">#005EB8</color>
+    <color name="color_background_cancel">#737373</color>
+    <color name="color_background_re_send">#FFFFFF</color>
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="paleGreyTwo">#e8ebf0</color>
+    <color name="steel">#808693</color>
+    <color name="color_bg_toolbar">#4D808693</color>
+    <color name="colorBackButtonDefault">#707070</color>
+    <color name="colorButtonDisable">#4d707070</color>
+    <color name="example_1_white_light">#4DFFFFFF</color>
+    <color name="example_4_grey">#474747</color>
+    <color name="pt_log_3_color_progressbar">#5397EA</color>
+    <color name="color_line_target_graph">#CA4F00</color>
+    <color name="color_text_target_graph">#351500</color>
+
+    <color name="colorButtonGray">#E8EBEF</color>
+    <color name="colorGrayItem">#BABABA</color>
+    <color name="colorGrayQuestion">#8E8E8E</color>
+    <color name="colorCheckBoxNormal">#EEF1F6</color>
+    <color name="colorCheckBox">#005CB7</color>
+    <!-- pt-bp-1 START -->
+    <color name="pt_bp_color_text_selected">#07496D</color>
+    <color name="pt_bp_color_text_out_size">#E0E0E0</color>
+    <!-- pt-bp-1 END -->
+
+    <color name="colorChipGray">#E8EBEF</color>
+    <color name="colorChipBlue">#005CB7</color>
+    <color name="colorBlueSky">#0DA0B1</color>
+    <color name="color_hex">#0DA0B1</color>
+    <color name="color_red">#F23F3F</color>
+    <color name="color_gray_med">#535459</color>
+
+    <color name="colorTextBlue">#4E90E0</color>
+    <color name="colorIcon">#3FB3C1</color>
+
+    <!-- pt-tpa-2-1 start -->
+    <color name="newMedicationValueColor">#0DA0B1</color>
+    <!-- pt-tpa-2-1 end -->
+
+    <color name="colorWhiteHomeInfo">#74FFFFFF</color>
+
+    // exo video player
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#ffbf00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#A3A2A2</color>
+    <color name="gray_line">#E4E4E4</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="maroon">#800000</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#000080</color>
+    <color name="black">#000000</color>
+    <color name="blackTransparent">#07DDDDDD</color>
+    <color name="toolbarTransparent">#95000000</color>
+    <color name="divider">#C0BEBE</color>
+    <color name="graph_marker_background">#B3FFFFFF</color>
+    <color name="blue_button">#005CB7</color>
+    <color name="pri_5">#16517C</color>
+    <color name="bg_content_chart">#43454E</color>
+
+    <color name="bg_border">#B8B8B8</color>
+    <color name="blue_chart">#003153</color>
+    <color name="line_chart">#B2B2B2</color>
+    <color name="bg_highlight_chart">#8CF5F5F5</color>
+    <color name="color_stroke_range_date">#D8D8D8</color>
+    <color name="color_calendar_active">#003153</color>
+    <color name="color_date_disable">#4D000000</color>
+    <color name="color_background_medication_list">#F3F3F3</color>
+    <color name="color_bg_range_calendar">#EDF1F7</color>
+    <color name="background_color">#F4F4F4</color>
+    <color name="colorPrussianBlue">#003153</color>
+    <color name="colorPrussianBlueA60">#99003153</color>
+    <color name="colorAquaBlue">#00F0FF</color>
+    <color name="colorWhiteA920">#EBEFF2</color>
+    <color name="colorWhiteA92">#EBEFFFFF</color>
+    <color name="colorWhiteA20">#33FFFFFF</color>
+    <color name="colorRedAlert">#FE7474</color>
+    <color name="colorBlueMidnight">#001E37</color>
+    <color name="colorPinkSolid">#7F454D</color>
+    <color name="dark_blue">#003153</color>
+    <color name="light_red">#DF2F2F</color>
+    <color name="solid_login">#D2D2D2</color>
+    <color name="color_time_done">#4D4D4D</color>
+    <color name="colorBlackRaisin">#202020</color>
+    <color name="colorGrayBright">#EDEDED</color>
+    <color name="colorSilver">#CBCBCB</color>
+</resources>

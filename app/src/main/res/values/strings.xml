@@ -1,0 +1,1222 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="saveButton">Save</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="nextButton">Next</string>
+    <string name="backButton">Back</string>
+    <string name="selectButton">Select</string>
+    <string name="creataccountButton">Create Account</string>
+    <string name="removeButton">Delete Record</string>
+    <string name="sendsmsButton">Send SMS</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="signinButton">Sign in</string>
+    <string name="resetpasswordButton">Reset Password</string>
+    <string name="letsstartButton">Let\u0027s Start</string>
+    <string name="modifyButton">Modify</string>
+    <string name="acceptButton">I have read about my medications and Accept</string>
+    <string name="learnmoreButton">Learn More</string>
+    <string name="rejectButton">Reject</string>
+    <string name="sendButton">Send</string>
+    <string name="gotitButton">OK</string>
+    <string name="GotitButton">Got it</string>
+    <string name="laterButton">Later</string>
+    <string name="updateButton">Update</string>
+    <string name="closeButton">Close</string>
+    <string name="willcontactButton">I will contact my doctor later</string>
+    <string name="havecontactedButton">I have contacted my doctor</string>
+    <string name="tryagainButton">Try Again</string>
+    <string name="syncButton">Sync</string>
+    <string name="SendemailButton">Send Error Log</string>
+    <string name="MedicationScheButton">Medication Schedule</string>
+    <string name="brandName">OMRON</string>
+    <string name="appName">Omron Hypertension Plus</string>
+    <string name="appDispName">OMRON Viso</string>
+    <string name="isRunning">%s is running…</string>
+    <string name="emailInput">Email Address</string>
+    <string name="passwordInput">Password</string>
+    <string name="passwordreInput">Confirm Password</string>
+    <string name="countrycodeInput">Country Code</string>
+    <string name="mobilephoneInput">Mobile phone number</string>
+    <string name="newemailadressInput">New Email address</string>
+    <string name="emailadressrInput">Confirm Email address</string>
+    <string name="newphonenumberInput">New phone number</string>
+    <string name="resnedButton">Re-send SMS</string>
+    <string name="forgotpassButton">Forgot Password</string>
+    <string name="learnmoreLink">Learn More</string>
+    <string name="termofserLink">Terms of Use.</string>
+    <string name="privacyLink">Privacy Policy. <i>(Optional)</i></string>
+    <string name="cancelregiButton">Cancel Registration</string>
+    <string name="ContactOCSLink">Contact OMRON Customer Service</string>
+    <string name="bloodpressureTab">Measurements</string>
+    <string name="homeTab">Home</string>
+    <string name="medicationTab">Medication</string>
+    <string name="gpapi00o00">OMRON</string>
+    <string name="gpapi00o01">OMRON Viso Service is a remote patient monitoring program to enable your doctor to stay up-to-date on your health.</string>
+    <string name="gpapi00o02">Have an account already?</string>
+    <string name="gpapi00o03">Create Account</string>
+    <string name="gpapi00o04">About Terms</string>
+    <string name="gpapi00o05">Please carefully review our latest Terms of Use and Privacy Policy.</string>
+    <string name="gpapi00o06">I agree to the</string>
+    <string name="gpapi00o07">I agree to Omron anonymising my health data, and using this data, which is not traceable back to me, to improve OMRON Viso and other Omron services as described in Omron’s Privacy Policy. (Optional)</string>
+    <string name="gpapi00o07_1">I agree to Omron anonymising my health data, and using this data, which is not traceable back to me, to improve OMRON Viso and other Omron services as described in Omron’s</string>
+    <string name="gpapi00o08">I consent to receive promotional communications from OMRON HEALTHCARE Co., Ltd. about products and services of interest to me based on my app usage and preference. I can opt out of these communications at any time.</string>
+    <string name="gpapi00o09">Please enter your contact information\n\nNote: Email address and phone number must match those registered with your GP Practice.</string>
+    <string name="gpapi00o10">Password must contain at least 8 characters.</string>
+    <string name="gpapi00o11">Please create your password.</string>
+    <string name="gpapi00o12">Country code (required) e.g. 44 for United Kingdom.</string>
+    <string name="search_country">Search Country</string>
+    <string name="gpapi00o13">Please fill in the SMS verification code.</string>
+    <string name="gpapi00o14">Verification code sent by SMS \n\nIf you did not receive the SMS, please tap on "\u0022"Resend SMS"\u0022".</string>
+    <string name="gpapi00o15">Congratulations! Your account has been created.</string>
+    <string name="gpapi00o16">First, let\u0027s learn more about OMRON Viso</string>
+    <string name="gpapi00o17">Sign in</string>
+    <string name="gpapi00o18">Reset password</string>
+    <string name="gpapi00o19">Please fill in your email address and a link to reset your password will be sent to you.</string>
+    <string name="gpapi00o20">Welcome to\nOMRON Platform.</string>
+    <string name="gpapi00o21">Let\u0027s watch a video and learn more about OMRON Platform.</string>
+    <string name="gpapi00o22">What is\nHypertension Programme?</string>
+    <string name="gpapi00o23">OMRON Platform\'s Hypertension Programme helps you manage your blood pressure and reach your target blood pressure.</string>
+    <string name="gpapi00o24">What is \na Monitoring Programme?</string>
+    <string name="gpapi00o25">OMRON Platform\u0027s Monitoring Programmes assists you in measuring your vital signs and sends this information to your doctor for follow-up.</string>
+    <string name="gpapi00o26">Let\u0027s explore\nHypertension Plus</string>
+    <string name="gpapi00o27">User not found</string>
+    <string name="gpapi00o28">The email address and phone number that you entered do not match our records.\n\nTo use OMRON Viso you must be invited by a Healthcare Professional.\n\nIf you have received an invite but are not able to register please try again, and if you continue to see this message please contact your GP Practice to confirm your contact details.</string>
+    <string name="gpapi00o27_1">User is existing</string>
+    <string name="gpapi00o28_1">The email address and phone number that you entered has already existed. You can use the email address to login to this application directly. If you forgot your password, please click \u0027reset password\u0027.</string>
+    <string name="gpapi00o29_1">We have the following information on file.</string>
+    <string name="gpapi00o29_2">If this is information is correct, tap on Send SMS to complete verification of your account\n\nNot you? Tap on \'Cancel Registration\' and contact your GP Practice</string>
+    <string name="gpapi00o30">First name</string>
+    <string name="gpapi00o31">Other name(s)</string>
+    <string name="gpapi00o32">Family name</string>
+    <string name="gpapi00o33">%s</string>
+    <string name="gpapi00o34">Data synchronisation</string>
+    <string name="gpapi00o35">Your Recorded data is being synchronised.</string>
+    <string name="gpapi00o36">Programmes</string>
+    <string name="gpapi00o37">Programmes You Have Been Enrolled in</string>
+    <string name="gpapi00o38">Your GP has enrolled you in the programme(s) listed below. Please check that they are correct. On the next few screens, you will be able to watch a few videos about OMRON Platform and how your programmes help you.</string>
+    <string name="gpapi00o47">Reauthentication Method</string>
+    <string name="gpapi00o48">To keep your health data secure, please set up a re-authentication method which can be used to confirm your identity when you re-open Viso, or after 30 minutes of inactivity. If you do not set up a quick re-authentication method, you will be asked to re-login to Viso each time.</string>
+    <string name="gpapi00o49">Face Authentication</string>
+    <string name="gpapi00o50">Fingerprint</string>
+    <string name="gpapi00o51">Iris</string>
+    <string name="gpapi00o52">PIN Code</string>
+    <string name="gpapi00o53">Important: You should not turn on fingerprint recognition if anyone else has their fingerprints registered on this device.</string>
+    <string name="gpapi00o54">Use fingerprint to re-authenticate</string>
+    <string name="gpapi00o55">PIN CODE</string>
+    <string name="gpapi00o56">Please enter your 6-digit PIN code.</string>
+    <string name="gpapi00o57">Once again, please enter your 6-digit PIN code.</string>
+    <string name="gpapi00o58">The Passcodes do not match. Please try again.</string>
+    <string name="gpapi00o59">Set-up complete</string>
+    <string name="gpapi00o60">A quick reauthentication method has been set-up, which will be used to re-login to Viso each time.</string>
+    <string name="gpapi00o61">Error</string>
+    <string name="gpapi00o62">The setting of your %s have been changed. This option has been disabled on Viso. Please proceed to login with your email and password. You can enable %s again from the Menu > Reauthentication page.</string>
+    <string name="ProName_1">Hypertension</string>
+    <string name="ProName_2">Heart Failure</string>
+    <string name="ProName_3">Selected Index Monitoring</string>
+    <string name="gpapi0ht01">Home Information</string>
+    <string name="gpapi0ht02">This is your home screen.\nTap on ⓘ to take a tour.</string>
+    <string name="gpapi0ht03">On the Home tab, you will find tasks that your health care provider would like you to do. Once you have completed a task, it will be moved to the bottom of the list.</string>
+    <string name="gpapi0ht03_2">The home banner dynamically highlights important information, your upcoming tasks, and your task completion rate. You can tap the banner for more information.</string>
+    <string name="gpapi0ht04">This is an example of a measurement task. You will be asked to take certain measurements according to the frequency your health care provider has set for you.</string>
+    <string name="gpapi0ht05">This is a medication task.\nTap on the grey circle to mark medication as taken</string>
+    <string name="gpapi0ht06">For some programmes, you may be asked how you feel daily. Please answer this question based solely on your physical condition.</string>
+    <string name="gpapi0ht06_2">In the Menu, you can find various settings options, such as your profile, reminder settings, and other helpful information.</string>
+    <string name="gpapi0ht07">In the settings tab, you can set the time for blood pressure and medication action alerts</string>
+    <string name="gpapi0ht08">During your measurement week you measure your blood pressure in the morning and evening.\n\nThe 4 status bar keeps you up-to-date on your progress.</string>
+    <string name="gpapi0ht11">Starting Measurement Week in %s days.</string>
+    <string name="gpapi0ht22">Let\u0027s add your first blood pressure reading for your measurement week.\nTap on the \u0027Add BP\u0027 button to get started!</string>
+    <string name="gpapi0ht23">Let\u0027s set your personal medication schedule.\nTap on \u0027Update\u0027 to get started!</string>
+    <string name="gpapi0pt01">Measurements Tab Information</string>
+    <string name="gpapi0pt02">Click on ⓘ to learn how to use the blood pressure screen.</string>
+    <string name="gpapi0pt03">On the Blood Pressure tab, you can view and enter your blood pressure readings.</string>
+    <string name="gpapi0pt04">The calendar shows which days you have recorded your blood pressure.\n\nDays highlighted with a blue background are part of your measurement week, you should take your blood pressure in the morning and evening on these days</string>
+    <string name="gpapi0pt05">You can switch the calendar between week and month view.</string>
+    <string name="gpapi0pt06">Tap on any day in the calendar to view your blood pressure record or enter past results.</string>
+    <string name="gpapi0pt07">Tap on the chart icon to see a graph of your blood pressure results.</string>
+    <string name="gpapi0pt08">Use the add button at the bottom to add a new measurement for that day.</string>
+    <string name="gpapi0pt09">Your blood pressure results graph can be viewed in ‘week’, ‘month’ or ‘year’ mode.</string>
+    <string name="gpapi0mt01">Medication Information</string>
+    <string name="gpapi0mt02">Tap on ⓘ to explore the medication tab</string>
+    <string name="gpapi0mt03">On your Medication tab, you can see your scheduled medication if you are on a medication plan.</string>
+    <string name="gpapi0mt04">The calendar shows which days you have marked your medication as taken.</string>
+    <string name="gpapi0mt05">Tap on any day in the calendar to view your medication diary or mark past medication as taken.</string>
+    <string name="gpapi0mt06">Tap on the tick box to mark medication as taken for the selected day.</string>
+    <string name="gpapi0mt07">Tap here to check your list of medications. You can also access this list easily from the Menu options.</string>
+    <string name="gpapi0mt08">Your personalised medication plan is displayed here.</string>
+    <string name="gpaph00v01">Let\'s complete today\'s tasks together, %s!</string>
+    <string name="gpaph00v01EmptyName">Let\'s complete today\'s tasks together!</string>
+    <string name="gpapb01v02_0">Select Range</string>
+    <string name="gpaph00v04">Take Medication</string>
+    <string name="gpaph00v05">Measure blood pressure</string>
+    <string name="gpaph00v06">Add</string>
+    <string name="gpaph00v08">Measurement Week</string>
+    <string name="gpaph00v09">Please complete at least 8 blood pressure tasks this week.</string>
+    <string name="gpaph00v10">Completed Tasks [%d]</string>
+    <string name="gpaph00v11">Tell your clinician how are you doing</string>
+    <string name="gpaph00v11_1">Complete Questionnaire</string>
+    <string name="gpaph00v12_1">SYS</string>
+    <string name="gpaph00v12_2">DIA</string>
+    <string name="gpaph00v12_3">Pulse</string>
+    <string name="gpaph00v13">Next Measurement Week : Will Start on %s</string>
+    <string name="gpaph00v14">Unfortunately you did not complete the required measurement recordings.</string>
+    <string name="gpaph01v02">Starting in %s days</string>
+    <string name="gpaph01v02_1">Starting in %s day</string>
+    <string name="gpaph01v03">What is the Measurement Week?\nDuring your measurement week you measure your blood pressure in the morning and the evening every day\n\nWhat happens with the data?\nTaking measurements over 1 week gives an accurate picture of your blood pressure. Your doctor uses this to review your treatment plan.\n\nWant to learn more?\nTap here to learn more from the NHS about home blood pressure monitoring\n\nRemember: \nAlways follow your doctor\u0027s advice, and if you have questions or concerns, contact them in your usual way.</string>
+    <string name="gpaph01v03_1">What is a Measurement Week?</string>
+    <string name="gpaph01v04">Measurement Week is\nin progress</string>
+    <string name="gpaph01v06">Measurement Week Results</string>
+    <string name="term">%s-%s</string>
+    <string name="gpaph01v07">Ave. SYS</string>
+    <string name="gpaph01v08">Ave. DIA</string>
+    <string name="gpaph01v09">Above target</string>
+    <string name="gpaph01v11">Below target</string>
+    <string name="gpaph01v12">Great job! Your blood pressure is within your target.</string>
+    <string name="gpaph01v12_1">What happens now?</string>
+    <string name="gpaph01v12_2">Keep up the good work! Keep following your clinician\'s advice and keep your blood pressure within your target.</string>
+    <string name="gpaph01v12_3">Want to learn more?</string>
+    <string name="gpaph01v12_4">%s to learn more about blood pressure targets from the NHS.</string>
+    <string name="gpaph01v14">Next Step:</string>
+    <string name="gpaph01v15_1">Rejected</string>
+    <string name="gpaph01v15_2">Accepted</string>
+    <string name="gpaph02v01">Questionnaire</string>
+    <string name="gpaph02v02">Answering these questions truthfully will help make sure that you have the right treatment plan for you</string>
+    <string name="gpaph02v03">Medication</string>
+    <string name="gpaph02v04">How often do you forget to take your medication?</string>
+    <string name="gpaph02v04_1">How many days in the past week have you forgotten to take your medication as prescribed?</string>
+    <string name="gpaph02v04_2">I am not on medication</string>
+    <string name="gpaph02v05">Every time</string>
+    <string name="gpaph02v06">Most of the time</string>
+    <string name="gpaph02v07">Some of the time</string>
+    <string name="gpaph02v08">Hardly ever</string>
+    <string name="gpaph02v09">Symptoms</string>
+    <string name="gpaph02v10">I have been experiencing the following symptoms / side effects:</string>
+    <string name="gpaph02v11">Fever</string>
+    <string name="gpaph02v12">Dizziness</string>
+    <string name="gpaph02v13">Headache</string>
+    <string name="gpaph02v14">Diarrhea</string>
+    <string name="gpaph02v15">Cough</string>
+    <string name="gpaph02v16">Weakness</string>
+    <string name="gpaph02v17">Rash</string>
+    <string name="gpaph02v18">Constipation</string>
+    <string name="gpaph02v19">Is there anything that may have impacted your blood pressure this month?</string>
+    <string name="gpaph02v20">Activity</string>
+    <string name="gpaph02v21">In the past month I have been active (walking, running or other doing other sports):</string>
+    <string name="gpaph02v22">Less than 30 minutes per day</string>
+    <string name="gpaph02v23">30 to 60 minutes per day</string>
+    <string name="gpaph02v24">Please contact your GP Surgery as soon as possible to discuss your blood pressure reading.\n\nA new task, “Contact GP office” has been added to your task list. This task will remain in your task list until completed.\n\nAfter tapping \'confirm\' you will no longer be able to edit your response.</string>
+    <string name="gpaph02v25_0">Lifestyle</string>
+    <string name="gpaph02v25">Compared to last month I have done/had more, less or similar amounts of</string>
+    <string name="gpaph02v26">Salt</string>
+    <string name="gpaph02v27">Alcohol</string>
+    <string name="gpaph02v28">Healthy Eating</string>
+    <string name="gpaph02v29">Smoking</string>
+    <string name="gpaph02v30">Sleep</string>
+    <string name="gpaph02v31">Activity</string>
+    <string name="gpaph02v32">None</string>
+    <string name="gpaph02v33">Less</string>
+    <string name="gpaph02v34">Similar</string>
+    <string name="gpaph02v35">More</string>
+    <string name="gpaph02v36">Confirm Submission</string>
+    <string name="gpaph02v37">You will not be able to edit your responses after confirmation</string>
+    <string name="gpaph03v01">Your Treatment Plan</string>
+    <string name="gpaph03v02">Target Home Blood Pressure</string>
+    <string name="gpaph03v03">Your average blood pressure in the last measurement week was above your target.</string>
+    <string name="gpaph03v03_2">What happens now?</string>
+    <string name="gpaph03v03_3">Moving to the next step in your medication plan can help you to achieve blood pressure control.</string>
+    <string name="gpaph03v04">Current：%s</string>
+    <string name="gpaph03v05">Next：%s</string>
+    <string name="sys_dia">%s/%s mmHg</string>
+    <string name="gpaph03v06">%s has recommended that you move to the next step in your medication plan. \n\n Why should i move to the next step?\n In your last measurement week your blood pressure was %s mmHg. %s has set a home blood pressure target for you of 135/85 mmHg.\n\n Is it normal to change medication dose?\nIt can take time to find the right medication dose, and it\u0027s normal to go through a trial period to find out which medications work best for you personally. \n\nMoving to the next step in your plan is a natural part of the process to help you best manage your blood pressure. \n\nWhat happens if I don\u0027t agree?\nIf you decide to reject the next medication step we recommend to contact your doctor to discuss your needs.</string>
+    <string name="gpaph03v07">Reason for rejection</string>
+    <string name="gpaph03v08">Please help your clinician to understand why you are rejecting the next step</string>
+    <string name="gpaph03v09">Add your Feedback(Required)</string>
+    <string name="gpaph03v10">Continue Current Treatment Plan</string>
+    <string name="gpaph03v11">You have chosen not to proceed to the next medication step \n\nWhat Next?\nYour clinician has received your message and might get in touch with you. In the meantime please continue on your current treatment plan.</string>
+    <string name="gpaph03v11_1">Your choice will be communicated to your clinician.\n\nPlease continue with your current medication until your new medication is available, or unless instructed differently by your clinician.\n\nWhen your clinician has created your new prescription you will receive a new task in Hypertension Plus: \"Update Medication Schedule\", to set up reminders for your new medication.\n\n Completing the task confirms to your clinician that you have started your new medication.\n\nPlease make sure that you have your new medication before updating your medication schedule.</string>
+    <string name="gpaph03v12">%s has reviewed your medication plan and recommended a change in your plan.</string>
+    <string name="gpaph03v13">Message from your clinician:</string>
+    <string name="gpaph03v14">Current medication</string>
+    <string name="gpaph03v15">Next medication</string>
+    <string name="gpaph03v16">If you accept the plan, you will move to the %s.</string>
+    <string name="gpaph03v17">Next Step</string>
+    <string name="gpaph03v18">You have reached the end of your current medication plan. \n\nWhat now?\nYour clinician has reviewed your medication and recommended a new plan.</string>
+    <string name="gpaph04v01">Update medication schedule</string>
+    <string name="gpaph04v02">Please confirm that the medication you have received is the same as in your medication plan, then tap ‘Next‘. Contact your GP Practice if it is not the same. Tap ‘Later‘ to save this action for later.</string>
+    <string name="gpaph04v03">Current medication</string>
+    <string name="gpaph04v04">Next medication</string>
+    <string name="gpaph04v04.Popup">Your medication schedule has been updated.</string>
+    <string name="gpaph04v05">Why do I need to update my medication schedule?</string>
+    <string name="gpaph04v04_confirm">I confirm that I have my new medication and it is the same as in the new plan shown above.</string>
+    <string name="gpaph05v01">Contact Your GP Surgery</string>
+    <string name="gpaph05v02">Message from your clinician:</string>
+    <string name="gpaph05v04">%s</string>
+    <string name="gpaph05v05">Your latest blood pressure measurement has exceeded %s Systolic/%s Diastolic.</string>
+    <string name="gpaph05v06">Please contact your GP surgery or out-of-hours service as soon as possible.</string>
+    <string name="gpaph05v07">Your latest blood pressure measurement was lower than %s Systolic.\n\nPlease contact your GP surgery or out-of-hours service as soon as possible.</string>
+    <string name="gpaph05v08">Your GP Surgery</string>
+    <string name="gpaph05v09">The name of the hospital</string>
+    <string name="gpaph05v10">Phone Number (%s - %s)</string>
+    <string name="gpaph05v10_1">Phone Number -</string>
+    <string name="gpaph05v11">Phone Number (Out of Hours)</string>
+    <string name="gpaph05v12">%s Test Request</string>
+    <string name="gpaph05v13">Please schedule a %s test</string>
+    <string name="gpaph05v14">Fill in the date that you plan to do the Blood/Urine test to receive a reminder on the day.</string>
+    <string name="gpaph05v15">Fill in the date of your scheduled %s test to receive a reminder on the day of the test.</string>
+    <string name="gpaph05v16">Heart Failure</string>
+    <string name="SetuplaterButton">I will plan the test later</string>
+    <string name="arrangetestButton">I have planned when I will do the test</string>
+    <string name="gpaph05v12_0">Schedule %s Test</string>
+    <string name="gpaph05v12_1">%s test reminder</string>
+    <string name="gpaph05v17">Your GP would like to enrol you in the %s programme. After joining the programme, you will be asked to measure your blood pressure and weight according to your GP instructions, on top of the measurements required from your existing programmes.\n\nPlease acknowledge that you are aware of and have agreed to joining this programme by tapping the \"OK\" button and continue with the enrolment. If you do not wish to join the programme, or have any questions, please contact your GP to discuss your concerns.</string>
+    <string name="gpaph05v18">What is\na %s?</string>
+    <string name="gpaph05v19">OMRON Platform\'s Monitoring Programmes assists you in measuring your vital signs and sends this information to your doctor for follow up.</string>
+    <string name="gpaph05v19_1">Reminder Setting</string>
+    <string name="gpaph05v20">Programme Terminated</string>
+    <string name="gpaph05v20_1">Edit blood/urine test reminder</string>
+    <string name="gpaph05v21">Your GP has removed you from the %s programme. Please acknowledge the programme termination by tapping the “OK” button below. Your task lists will be updated after that. If you have any questions about the termination, please contact your GP to discuss them.</string>
+    <string name="gpaph05v22">Medication Change</string>
+    <string name="gpaph05v23">Tap here to learn more about why you need a new medication plan.</string>
+    <string name="gpaph05v24">Why do I need a new medication plan?</string>
+    <string name="gpaph05v25">As with all medications, there is a possibility of side-effects with anti-hypertensive medications.\n\nBefore you accept the new plan, read more to understand side-effects with your new medication below.</string>
+    <string name="gpaph05v26">About Medication(s)</string>
+    <string name="gpaph05v28">Your choice will be communicated to your clinician to your GP who will write you a prescription.\n\nAfter you get the new prescription, pick up your medication from the pharmacy as soon as possible. You will also receive a new task: Update Medication Schedule. Complete the task to let your GP know when you’re starting on your new medication. You will also be able to update your medication reminders to match your new schedule.\n\nIn the meantime, continue with your current treatment plan.</string>
+    <string name="collection_point_gp_surgery">GP Surgery</string>
+    <string name="collection_point_local_clinic">Local Clinic</string>
+    <string name="collection_point_local_hospital">Local Hospital</string>
+    <string name="test_when_asap">as soon as possible</string>
+    <string name="test_when_after_start">%s after the start of your new medication</string>
+    <string name="collection_point">%s Location of test: %s</string>
+    <string name="requested_test">Required tests:</string>
+    <string name="arrange_test">Please arrange for the test %s</string>
+    <string name="blood">Blood</string>
+    <string name="urine">Urine</string>
+    <string name="blood_and_urine">Blood and Urine</string>
+    <string name="after_day">%d day</string>
+    <string name="after_days">%d days</string>
+    <string name="doctor_recomment">Test instructions: %s</string>
+    <string name="doctor_confirmed">Your clinician has confirmed your test result.</string>
+    <string name="empty_text"> </string>
+    <string name="blood_urine_show_case">Click on the Schedule %s test to start updating your test day</string>
+    <string name="gpapb00v01">Measurements</string>
+    <string name="gpapb00v01_0">Select Vital</string>
+    <string name="gpapb00v01_3">Weight</string>
+    <string name="gpapb00v01_4">Atrial Fibrillation</string>
+    <string name="gpapb02v01_2">Add Pulse</string>
+    <string name="gpapb02v01_1">Add Weight</string>
+    <string name="gpapb02v01_3">Blood Pressure Monitor</string>
+    <string name="gpapb02v01_4">SpO2</string>
+    <string name="gpapb00v01_1">Blood Pressure</string>
+    <string name="gpapb00v02_1">Week</string>
+    <string name="gpapb00v02_2">Month</string>
+    <string name="gpapb00v03_1">Completed Tasks</string>
+    <string name="gpapb00v03_2">Measured</string>
+    <string name="gpapb00v03_3">Measurement Week</string>
+    <string name="gpapb00v04">Today</string>
+    <string name="gpapb00v05_1">Time</string>
+    <string name="gpapb00v05_2">SYS/DIA</string>
+    <string name="gpapb00v05_3">Pulse</string>
+    <string name="gpapb00v05_4">Weight</string>
+    <string name="gpapb00v06">Add Blood Pressure</string>
+    <string name="gpapb00v06_1">Add Pulse</string>
+    <string name="gpapb00v06_2">Add Weight</string>
+    <string name="gpapb01v01">Blood Pressure Graph</string>
+    <string name="gpapb01v02_1">Week</string>
+    <string name="gpapb01v02_2">Month</string>
+    <string name="gpapb01v02_3">Year</string>
+    <string name="gpapb01v03_1">SYS Target</string>
+    <string name="gpapb01v03_2">DIA Target</string>
+    <string name="gpapb01v04_1">Date</string>
+    <string name="gpapb01v04_2">SYS/DIA</string>
+    <string name="gpapb01v04_3">Pulse</string>
+    <string name="gpapb02v01">Add Blood Pressure</string>
+    <string name="gpapb02v03">Taking an Accurate Blood Pressure Measurement</string>
+    <string name="gpapb02v04">2 readings</string>
+    <string name="gpapb02v05">- You will be asked for 2 readings.\n-Take them at least 1 minutes apart.\n-Average blood pressure will be shared with your GP.</string>
+    <string name="gpapb02v06">For more tips on taking an accurate measurement tap on \u0027learn more\u0027.</string>
+    <string name="gpapb02v07">Taking an Accurate Blood Pressure Measurement</string>
+    <string name="gpapb02v07_2">How to Take an Accurate Weight Measurement</string>
+    <string name="gpapb02v07_1">You can view this video again from <b>Menu > Help/Videos</b> page.</string>
+    <string name="gpapb02v08">Don\u0027t show this again</string>
+    <string name="gpapb02v09">First measurement result</string>
+    <string name="gpapb02v10">Second measurement result</string>
+    <string name="gpapb02v11">Extra Measurement Needed</string>
+    <string name="gpapb02v12">Enter your readings and check that you have entered the time of measurement and values correctly.</string>
+    <string name="gpapb02v13_1">Date</string>
+    <string name="gpapb02v13_2">Time</string>
+    <string name="gpapb02v13_3">SYS</string>
+    <string name="gpapb02v13_4">DIA</string>
+    <string name="gpapb02v13_5">Pulse</string>
+    <string name="gpapb02v13_7">Please wait 1 minute, measure your blood pressure again and then enter the results here.</string>
+    <string name="gpapb02v14">Measurement Results</string>
+    <string name="gpapb02v15_1">Your blood pressure is higher than your target of less than %s mmHg Systolic and %s mmHg diastolic.\n\nPlease keep monitoring your blood pressure, and keep up those healthy habits so that you can reach your target!</string>
+    <string name="gpapb02v15_2">\n\nYour blood pressure is within your target of less than %s mmHg Systolic and %s mmHg diastolic. \n\nPlease keep monitoring your blood pressure, and keep up those healthy habits so that you stay within your target!</string>
+    <string name="gpapb02v15_3">Your blood pressure is high today.\n\nOn the next screen we will ask you to complete a short questionnaire about your health.</string>
+    <string name="gpapb02v15_4">Your blood pressure is very low today. \n\nOn the next screen we will ask you to complete a short questionnaire about your health.</string>
+    <string name="gpapb02v15_3_1">Your blood pressure is high today.</string>
+    <string name="gpapb02v15_4_1">Your blood pressure is very low today.</string>
+    <string name="gpapb02v16">Blood pressure results are shared with your clinician but may not be actively reviewed outside of your measurement week.\n\nIf you have any concerns about your blood pressure please contact your GP surgery in the normal way.</string>
+    <string name="gpapb03v01">Questionnaire</string>
+    <string name="gpapb03v02">Answering these questions truthfully helps your doctor to support you best with your treatment plan.</string>
+    <string name="gpapb03v03">Medication</string>
+    <string name="gpapb03v04">Have you taken your medication today?</string>
+    <string name="gpapb03v05">Yes</string>
+    <string name="gpapb03v06">No</string>
+    <string name="gpapb03v07">How often have you taken your medication in the past month?</string>
+    <string name="gpapb03v08">Every day</string>
+    <string name="gpapb03v09">5 to 6 times per week</string>
+    <string name="gpapb03v10">1 to 4 times per week</string>
+    <string name="gpapb03v11">Less than 1 time per week</string>
+    <string name="gpapb03v12">Symptoms</string>
+    <string name="gpapb03v13">Are you experiencing the following symptoms, or any other symptoms? \n\nIf so, please contact your GP practice or call 111 (out-of-hours) immediately to report your symptoms.\n\nIf you feel able, please complete this short questionnaire.</string>
+    <string name="gpapb03v14">Confusion</string>
+    <string name="gpapb03v15">Drowsiness</string>
+    <string name="gpapb03v16">Changed/Blurred vision</string>
+    <string name="gpapb03v17">Nausea/Vomiting</string>
+    <string name="gpapb03v18">Central Chest Pain/Pressure</string>
+    <string name="gpapb03v19">Difficulty Breathing/Shortness of Breath</string>
+    <string name="gpapb03v20">Dizziness</string>
+    <string name="gpapb03v21">Severe Headache</string>
+    <string name="gpapb03v21_1">Numbness or Weakness in Face, Arm or Leg</string>
+    <string name="gpapb03v22">Is there anything that may have impacted your blood pressure this month?</string>
+    <string name="gpapb03v22_1">Enter other symptoms not found in the list.</string>
+    <string name="gpapb03v23">Confirm Submission</string>
+    <string name="gpapb03v24">Please contact your GP Surgery as soon as possible to discuss your blood pressure reading.\n\nA new task, “Contact GP office” has been added to your task list. This task will remain in your task list until completed.\n\nAfter tapping \u0027confirm\u0027 you will no longer be able to edit your response.</string>
+    <string name="gpapb03v25">You will be requested to fill in this questionnaire whenever your blood pressure measurements are higher than normal or too low. \n\nAnswering these questions truthfully helps to make sure you have the best treatment plan for you.</string>
+    <string name="gpapb03v26">After tapping ‘confirm’ you will no longer be able to edit your response.</string>
+    <string name="gpapb04v01_1">Delete Record</string>
+    <string name="gpapb04v01_2">Are you sure you want to delete this record?\n\nYour clinician uses your blood pressure readings to set and review your treatment plan.\n\nIf you have entered the reading incorrectly, please delete this record and re-enter the correct values.</string>
+    <string name="gpapb04v01_3">This index is no longer monitored by your doctor. You can add measurements for your own record.</string>
+    <string name="gpapm00v04_3">Medication List</string>
+    <string name="gpapm00v02_1">Week</string>
+    <string name="gpapm00v02_2">Month</string>
+    <string name="gpapm00v03_1">Medication</string>
+    <string name="gpapm00v03_2">Taken</string>
+    <string name="gpapm00v03_3">Not Taken</string>
+    <string name="gpapm00v04_1">Today</string>
+    <string name="gpapm00v04_2">Taken</string>
+    <string name="gpapm00v05">Medication List</string>
+    <string name="gpapm00v05_1">Hypertension</string>
+    <string name="gpapm00v05_2">Other Medication</string>
+    <string name="gpapm00v06">Current medication</string>
+    <string name="gpapm00v07">If my blood pressure is too high, my clinician may ask me to increase my medication.</string>
+    <string name="gpapm00v08">Next medication</string>
+    <string name="gpapm00v09">Take Medication</string>
+    <string name="gpapm00v10_1">Hypertension Treatment Plan</string>
+    <string name="gpapm00v10_2">What is my Medication Plan?</string>
+    <string name="gpapm00v10_3">Your personal medication plan has been created for you by your doctor and will normally start with 3 steps.\n\nManaging blood pressure with a step-wise plan has been proven in clinical trials to be safe and effective.\n\nIf you have been taking your medication for a while and your blood pressure is still high during your blood pressure measurement week, your doctor may ask you to move to the next step in your plan.\n\nIt can take a number of steps to reach your blood pressure target. If you reach the end of this plan and your blood pressure is not yet below your target, your doctor may update the plan with new steps.</string>
+    <string name="gpapm00v10_4">What does your plan look like?</string>
+    <string name="gpapm00v10_5">People may react differently to medication, so your plan is based on your personal situation. The aim of your treatment plan is to help you to reach your blood pressure target.</string>
+    <string name="gpapm00v10_6">My target home blood pressure:</string>
+    <string name="gpapm00v10_7">Systolic %s mmHg \n Diastolic %s mmHg</string>
+    <string name="gpapm00v10_8">Your plan has been created and approved by your clinician.\n\nYou are currently on step %s.</string>
+    <string name="gpapm00v10_8_2">Your plan has been created and approved by your clinician and consists of 3 steps.\n\nPlease update medication schedule to enter STEP 1.</string>
+    <string name="gpapm00v10_9">STEP%s \n %s mg %s times per day</string>
+    <string name="gpapm00v10_10">STEP%s \n %s mg %s times per day</string>
+    <string name="gpapm00v10_11">STEP%s \n %s mg %s times per day</string>
+    <string name="gpapm00v10_12">Moving to the next step in your plan</string>
+    <string name="gpapm00v10_13">If your blood pressure is high in your measurement week, your clinician may ask you to move to the next step in your medication plan.\n\nYou will receive a task on your Home Screen to review and accept the next step.\n\nWhen you accept the change, your clinician will create a new prescription for you.\n\nYou will receive an alert in OMRON Viso when the prescription has been created, however you must collect the prescription and medication in your usual way.\n\nYou can also choose to reject the chosen step. Your choice will be communicated to your clinician and they may contact you to discuss why you have rejected.</string>
+    <string name="gpapm00v10_14">Why do I need to update my medication schedule?</string>
+    <string name="gpapm00v10_15">When you move to the next step in your plan, your medication will change.\nOnce you have received your medication we update your schedule so that you always have the correct medication reminders.\nTo change default reminder timings go to Reminder Setting.</string>
+    <string name="gpapm00v10_15_2">When you move to the next step in your plan, your medication will change.\nOnce you have received your medication we update your schedule so that you always have the correct medication reminders.\nTo change default reminder timings go to Reminder Setting.</string>
+    <string name="gpapm00v10_16">What happens if I reject a medication step?</string>
+    <string name="gpapm00v10_17">If you choose not to proceed to the next step in your medication plan, your clinician may contact you to discuss your decision.\n\nPlease continue following your current medication plan, or contact your GP Practice in the normal way if you have questions about your plan.</string>
+    <string name="gpapm00v10_18">Why has a new plan been recommended?</string>
+    <string name="gpapm00v10_19">Your clinician may recommend a new plan if you reach the end of your current plan or if, for example, you have reported side-effects to medication you are using.\n\nYou always have the choice to accept or reject a new plan.\n\nIf you have any concerns you can always contact your GP Practice in the normal way.</string>
+    <string name="gpaps00v01">Settings</string>
+    <string name="gpaps00v02">Account</string>
+    <string name="gpaps00v03">Logout</string>
+    <string name="gpaps00v04">Settings</string>
+    <string name="gpaps00v05">Reminders</string>
+    <string name="gpaps00v06">ON</string>
+    <string name="gpaps00v07">OFF</string>
+    <string name="gpaps00v08">Refresh Data</string>
+    <string name="gpaps00v09">Help / Videos</string>
+    <string name="gpaps00v10">Medication List</string>
+    <string name="gpaps00v11">Customer Support</string>
+    <string name="gpaps00v12">My Profile</string>
+    <string name="gpaps00v13">Profile</string>
+    <string name="gpaps00v14">Name</string>
+    <string name="gpaps00v15">Date of Birth</string>
+    <string name="gpaps00v16">Email</string>
+    <string name="gpaps00v17">Mobile Phone Number</string>
+    <string name="gpaps00v18">Change Password</string>
+    <string name="gpaps00v19">Information from OMRON</string>
+    <string name="gpaps00v20">Sales information</string>
+    <string name="gpaps00v21">I would like to receive sales \u0026 marketing updates from OMRON Healthcare.</string>
+    <string name="gpaps00v22">Email</string>
+    <string name="gpaps00v23">Current Email Address</string>
+    <string name="gpaps00v24">Update Email Address</string>
+    <string name="gpaps00v25">Mobile Phone Number</string>
+    <string name="gpaps00v26">Current Mobile Phone Number</string>
+    <string name="gpaps00v27">Update Mobile Phone Number</string>
+    <string name="gpaps00v28">Change Password</string>
+    <string name="gpaps00v29">We will email you instructions to reset your password.</string>
+    <string name="gpaps00v30">We will email to %s</string>
+    <string name="gpaps00v31">If you have not received the email from us, please:</string>
+    <string name="gpaps00v32">1. Check your spam/junk email folder\n2. Confirm that you have entered your email address correctly\nIf you still haven\u0027t received an email, please contact Omron Customer Service via\nhttps://www.omron-healthcare.co.uk/contact-us</string>
+    <string name="gpaps00v33">Reminders</string>
+    <string name="gpaps00v34">What is the measurement week?</string>
+    <string name="gpaps00v35">This questionnaire is intended to help your doctor better understand your situation and ake decisions on your treatment.</string>
+    <string name="gpaps00v36">Morning</string>
+    <string name="gpaps00v37">Evening</string>
+    <string name="gpaps00v38">Medication Reminders</string>
+    <string name="gpaps00v39">Medication reminders are active every day</string>
+    <string name="gpaps00v44">Notification</string>
+    <string name="gpaps00v45">If you turn on local notifications, you can get the reminders when you finish the app.</string>
+    <string name="gpaps00v48">Latest sync:</string>
+    <string name="gpaps00v49">Help</string>
+    <string name="gpaps00v50">How to use Hypertension Plus</string>
+    <string name="gpaps00v51">About Blood Pressure</string>
+    <string name="gpaps00v52">About Medication(s)</string>
+    <string name="gpaps00v53">Instruction</string>
+    <string name="gpaps00v54">Hypertension Plus Information</string>
+    <string name="gpaps00v56">Hypertension Plus Information</string>
+    <string name="gpaps00v57">Terms of Use</string>
+    <string name="gpaps00v58">Privacy Policy</string>
+    <string name="gpaps00v58_1">Update Privacy Police Preference</string>
+    <string name="gpaps00v55">About Us</string>
+    <string name="gpaps00v60">Licenses</string>
+    <string name="gpaps00v61">Version (Release Date)</string>
+    <string name="gpaps00v62">Customer Support</string>
+    <string name="gpaps00v63">OMRON Customer Service</string>
+    <string name="gpaps00v64_1">Do you have questions or need support? Please visit our OMRON Viso Customer Support Center</string>
+    <string name="gpaps00v64_2">https://www.omron-healthcare.co.uk/hypertensionplus/customer-support</string>
+    <string name="gpaps00v64_3">If you are experiencing an error or issue within the App, the Customer Service Team may ask you to send some additional information. To do so click on the button \u0027Send Error Log\u0027 button below.</string>
+    <string name="gpaps00v65">For medical questions please contact your GP Surgery</string>
+    <string name="gpaps00v66">Name</string>
+    <string name="gpaps00v67">Phone Number (%s - %s)</string>
+    <string name="gpaps00v68">Phone Number (Out of Hours)</string>
+    <string name="gpaps00v70">NHS</string>
+    <string name="gpaps00v71">Please Click the button to manage your NHS Login Number, and you will move to the page of NHS.</string>
+    <string name="gpapmm0v01">Omron Hypertension Plus Password Reset</string>
+    <string name="gpapmm0v02">Dear %s\nWe received a request to reset your password for Omron Hypertension Plus\nSimply click on the link below to set a new password\nLink:\nIf you didn\u0027t ask to change your password, your password is still safe and you can delete this mail or contact us via the link below if you have any concerns \nhttps://www.omron-healthcare.co.uk/contact-us</string>
+    <string name="gpapmm0v03">Omron Hypertension Plus Password Reset</string>
+    <string name="gpapmm0v04">Dear %s\nWe received a request to reset your password for Omron Hypertension Plus\nSimply click on the link below to set a new password\nLink:\nIf you didn\u0027t ask to change your password, your password is still safe and you can delete this mail or contact us via the link below if you have any concerns\nhttps://www.omron-healthcare.co.uk/contact-us</string>
+    <string name="gpapmm0v05">Omron Hypertension Plus Email Update</string>
+    <string name="gpapmm0v06">Dear %s\nWe received a request to update your phone number or email address for use with Omron Hypertension Plus\nSimply click on the link below to complete the update\nLink:\nIf you didn\'t ask to update your contact details, your password is still safe and you can delete this mail or contact us via the link below if you have any concerns\nhttps://www.omron-healthcare.co.uk/contact-us</string>
+    <string name="gpapmm0v07">Contact us</string>
+    <string name="incorrect_phone_number">This format cannot be recognized as a phone number.</string>
+    <string name="not_support_phone_call">This device does not support phone call.</string>
+
+    <string name="AWSCannotAuthenticateUser">Cannot send SMS code. Please try again later.</string>
+    <string name="AWSErrorOccurred">An error occurred. Please try again later.</string>
+    <string name="CannotDownloadFile">Cannot download file at this moment. Please try again later!</string>
+    <string name="ConnectDataError">There was an error connecting to database. Please contact your system administrator.\nError code: %s\nError message: %s</string>
+    <string name="update_blood_pressure">Edit Blood Pressure</string>
+    <string name="correct_your_readings">Correct your readings.</string>
+    <string name="gpapb02v14_1">Measurement Result</string>
+    <string name="record_not_change">No changes have been made (to the blood pressure reading)</string>
+    <string name="doneButton">Done</string>
+    <string name="EmailInvalid">The request is not valid.</string>
+    <string name="EmailIsExisted">User with E-mail address %s already exists. Please enter another email address.</string>
+    <string name="EmailIsNotVerified">Email is not verified.</string>
+    <string name="EmailMaxCount">Please input within max. 128 characters.</string>
+    <string name="EmailNotMatchs">Your email address and confirmation email address do not match.</string>
+    <string name="InternalServerError">Connection Error. Please check your internet connection and try again in a few minutes. If the problem continues, please contact Omron Customer Services.</string>
+    <string name="InvalidEmail">Invalid email. Please correct and try again.</string>
+    <string name="InvalidPhone">Invalid phone number. Please enter a mobile phone number without country code.</string>
+    <string name="InvalidSMSCode">Incorrect code. Please check and try again.</string>
+    <string name="MeasureBPActionCardTime">By %s</string>
+    <string name="MeasureDoneValueFormat">Measurement %s/%s</string>
+    <string name="NoInternetConnection">No internet connection. Please connect to the internet to use this App.\nNote: You will not receive important alerts and updates until your internet connection is restored.</string>
+    <string name="NotLoadedVideo">An internet connection is required to view videos. Please check that you are connected and try again.</string>
+    <string name="UnavaiableVideo">Cannot play this video because the resource is unavailable.</string>
+    <string name="PhoneIsNotExist">Phone number is not registered in Hypertension Plus.</string>
+    <string name="PhoneIsNotVerified">Phone number is not verified.</string>
+    <string name="privacyAndTermUpdate">Terms</string>
+    <string name="SearchCountry">Search</string>
+    <string name="SettingPhone_ResetSuccess">Your phone number has been changed successfully.</string>
+    <string name="UnknownError">Connection Error. Please check your internet connection and try again in a few minutes. If the problem continues, please contact Omron Customer Services.</string>
+    <string name="UpdateMedicationSchedulePopupFormat">%s %s mg/day %s dose(s)</string>
+    <string name="UpdateMessage">Please update to the latest App version</string>
+    <string name="UpdateTitle">New App update available</string>
+    <string name="VerifyCodeInvalid">Invalid Verification Code. Please re-enter and try again.</string>
+    <string name="VerifyCodeIsOutOfDate">Verification code has expired. Please tap on re-send SMS to receive a new code.</string>
+    <string name="VeryBadNetwork">Poor network connection. Please check network connection and re-open Hypertension Plus.</string>
+    <string name="DataSync_NoInternet">Error communicating with Server. Please check your network connection and try again.</string>
+    <string name="gpaph00v04_1">Scheduled Reminder: Take medication</string>
+    <string name="gpaph00v05_2">Scheduled Reminder: Measure Blood Pressure</string>
+    <string name="gpaph00v05_3">Scheduled Reminder: Measure Weight</string>
+    <string name="Notification_EnableNotification_Description">Open app Settings to enable App Notifications</string>
+    <string name="Notification_EnableNotification_Title">Notifications are disabled</string>
+
+    <!-- END DEFAULT-->
+
+    <string name="OK">OK</string>
+    <string name="error">Error</string>
+    <string name="COMMON_TEXT_DASH">ー</string>
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+
+    <!--Splash START-->
+    <string name="app_need_update_title">This app has an update</string>
+    <string name="app_need_update_content">Please do to update version of this app.</string>
+    <!--Splash END-->
+
+    <!-- data sync Start -->
+    <string name="pt_log_3_data_sync_never">Never synchronize data</string>
+    <string name="pt_log_3_token_has_expired">The incoming token has expired</string>
+    <string name="message_pt_log_3_token_has_expired">Login session has expired, please log in again.</string>
+    <string name="pt_log_3_unauthorized">Unauthorized</string>
+    <string name="pt_log_3_account_not_found">Account data not found. Please reload the page or login again to renew the data.</string>
+    <string name="pt_log_3_stop_sync">Stop synchronizing data?</string>
+    <string name="reminder_MedicationSchedule">Medication Schedule</string>
+    <!-- data sync END -->
+
+    <!-- Authen START -->
+    <string name="invalid_password">A password must consist of at least 8 and no more than 99 characters. Each character can be a digit (0–9), an uppercase or a lowercase letter (A-Z, a-z) or a special character.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="skip">Skip</string>
+    <!-- Authen END -->
+
+    <!-- Home START -->
+    <string name="data_synchronization">Data Synchronization</string>
+    <string name="omron_connect">Omron Connect</string>
+    <string name="invalid_view_type">Invalid view type</string>
+    <!-- Home END -->
+
+    <!--Register START-->
+    <string name="pt_cre_1_name_search">\u0025\u0025%s\u0025\u0025</string>
+    <string name="pt_cre_1_format_version">%s.%s</string>
+
+    <string name="pt_cre_2_description">Please read it carefully and check the box beside each principle if you agree with it</string>
+    <string name="pt_cre_2_text_agree">Agree with the above (Optional)</string>
+
+    <string name="pt_cre_3_text_description_from_sign_in">Please provide your phone number as registered with your GP.</string>
+    <string name="pt_cre_3_phone_meta">%s\u0020%s</string>
+    <string name="pt_cre_3_phone_send_cognito">%s%s</string>
+    <string name="pt_cre_3_mobile_phone_invalid">Please input number only</string>
+
+    <string name="pt_cre_4_invalid_repassword">Entered passwords are not the same.</string>
+
+    <string name="pt_cre_7_title_update_phone">Phone Number</string>
+    <!--Register END-->
+
+    <!-- AppIntro Start -->
+    <!-- AppIntro END -->
+    <string name="click_on">Click on</string>
+    <string name="to_learn">to learn how to use</string>
+    <string name="the_home_screen">the home screen</string>
+    <string name="the_blood_pressure_screen">the Blood Pressure screen</string>
+    <string name="the_medication_screen">the Medication screen</string>
+
+    <!-- pt-bp-1 START-->
+    <string name="ptbp1_graph">Graph</string>
+    <string name="ptbp1_time">Time</string>
+    <string name="ptbp1_sys_dia">SYS / DIA</string>
+    <string name="ptbp1_text_show_time_week">%s\u0020\u002D\u0020%s\u0020%s</string>
+    <string name="ptbp1_text_show_time_month">%s\u0020%s</string>
+    <string name="ptbp1_text_show_time_description">%s\u002C\u0020%s</string>
+    <!-- pt-bp-1 END-->
+
+    <!-- Home Start -->
+    <!-- Home END -->
+
+    <!-- Settings Screen Start -->
+    <string name="notification_channel_description">Notification</string>
+    <string name="notification_channel_name">Notification</string>
+    <string name="pt_set_2_2_country_code_default">+44  United Kingdom</string>
+    <string name="pt_set_5_1_address_jp">OMRON HEALTHCARE Co., Ltd.53, Kunotsubo, Terado–cho, Muko, KYOTO, 617–0002 JAPAN</string>
+    <string name="pt_set_5_1_address_eu">OMRON HEALTHCARE EUROPE B.V. Scorpius 33, 2132 LR Hoofddorp, THE NETHERLANDS</string>
+    <string name="pt_set_5_version_description">%s\u0020\u0028%s\u0029</string>
+    <string name="pt_set_3_medication_schedule">Medication Schedule</string>
+    <string name="notice_update_email_success">We have sent an email with a confirmation link to your new email address. \n\nIn order to complete the update process, please click the confirmation link. \n\nIf you do not receive a confirmation email, please check your spam folder and verify that you have entered a valid email address.</string>
+    <string name="notice_update_phone_success">Phone number change has been completed.</string>
+
+    <!-- Settings Screen End -->
+
+    <!-- Add Blood Pressure Start -->
+    <string name="pt_add_bp_mmhg">mmHg</string>
+    <string name="pt_add_bp_bpm">bpm</string>
+    <string name="moth_date_fomat">E, d MMM</string>
+    <string name="pt_add_bp_8_character">*</string>
+    <string name="message_err_value_0">The value must be greater than 0.</string>
+    <string name="title_dialog_delele_record">Delete Record</string>
+    <string name="content_dialog_delete_record">"Are you sure you want to delete this record?\n\nYour doctor uses your blood pressure readings to set and review your treatment plan.\n\nIf you have entered the reading incorrectly, please delete this record and re-enter the correct values."</string>
+    <!-- Add Blood Pressure End -->
+
+    <!-- Medication Start -->
+    <string name="medication_current_step">%s,\n%s mg, %s times per day\n</string>
+    <string name="medication_current_item_step">%s,\n%s mg, %s time(s) per day</string>
+    <string name="medication_systolic">Systolic</string>
+    <string name="medication_diastolic">Diastolic</string>
+    <string name="SYS_DIA">Systolic slash diastolic</string>
+    <string name="bp_item_detail">Blood pressure reading\n systolic %d over diastolic %d pulse %d\n taken on %s at %s</string>
+    <string name="bp_item_detail_year">Blood pressure reading\n systolic %d over diastolic %d pulse %d\n on %s</string>
+    <string name="bp_item_detail_month">Blood pressure reading\n systolic %d over diastolic %d pulse %d\n from %s to %s</string>
+    <string name="bp_item_value">%d over %d</string>
+
+    <string name="gpapm00v10_9_1">STEP%d</string>
+    <string name="gpapm00v10_9_2">%s, %s mg, %s time(s) per day</string>
+
+    <string name="medication_plan_change">Medication Plan Change</string>
+    <string name="new_medication_plan">New Medication Plan</string>
+    <string name="contact_gp_office">Important Message</string>
+    <string name="current_medication_schedule">Current medication schedule</string>
+    <string name="new_medication_schedule">New medication</string>
+    <string name="new_medication_plan_done">New next step :</string>
+    <string name="medication_plan_change_done">New next step : Accept</string>
+    <string name="dr_next_med_step_done">Next step : </string>
+    <!-- pt-tpa-5 START-->
+    <string name="tpa5_new_step">New STEP %d</string>
+    <string name="why_do_you_reject">Why do you reject?</string>
+    <string name="new_med_description">You have reached the end of your current medication plan. HCP Approver has reviewed your medication and recommended a new plan.</string>
+    <string name="new_med_msg_from_patient">Lorem ipsum dolor sit amet, consectetur\nadipisicing elit, sed do eiusmod tempor\nincididunt ut labore et dolore magna\naliqua.</string>
+    <string name="gpaph03v15_1">New medication</string>
+    <!-- pt-bp-1 END-->
+
+    <!-- 【pt-set-6】Contact info Start -->
+    <string name="MailView_Title">[%s %s] Contact by email [%s %s]</string>
+    <string name="MailView_Content">Select the type of enquiry from the options below and enter the number here. [ ]\n1. Inquiry about functions\n2. Error report\n3. Other\n______________________________________\nPlease state your inquiry.\nInformation obtained through this email will only be used to respond to your inquiry.\nIf you have set domain specific reception or an email filter, please ensure that your settings permit emails from “{ %s }”. If such emails are not permitted, the reply email may not be delivered.\n\n</string>
+    <string name="pt_set_6_patientid_mail">\n\nPatientID [%s]\n</string>
+    <string name="pt_set_6_about_device_mail">\n\nAbout Device\nMobile Device Model [%s]\nOS [Android]\nVersion [%s]\n</string>
+    <string name="pt_set_6_about_storage_mail">\n\nAbout Storage\nStorage [%s]\nHeap Memory [%s]\nStorage [%s]\nAvailable Storage [%s]\nUsing SD card [%s]\n</string>
+    <string name="pt_set_6_about_network_mail">About Network\nAir Plane Mode [%s]\nWiFi [%s]\nLocation [%s]\n</string>
+    <string name="pt_set_6_about_account_mail">\n\nAbout Account\nToken expiration [%s]\n</string>
+    <string name="pt_set_6_about_application_mail"> \n\nAbout Application\nApp Version [%s (%s)]\nAllow ad [%s]\n</string>
+    <string name="pt_set_6_initial_setting_mail">Initial setting [%s]\nRegion [%s]\n</string>
+    <string name="pt_set_6_about_time_mail"> \n\nAbout Time\nDate and Time [%s]\nAutomatic [%s]\n</string>
+    <string name="if_you_accept_plan">If you accept the plan, you will \nautomatically move to [%s].</string>
+    <string name="why_do_you_reject_title">Why do you reject?</string>
+    <string name="rejected_continue_desc">You have chosen not to proceed with changes recommended by your clinician. \n\n\n\nYour clinician has received your message and may get in touch with you. In the meantime you will continue with your current treatment plan.</string>
+    <!-- 【pt-set-6】Contact info End -->
+    <!-- Next medication step start -->
+    <string name="pt_tpa21_why_next_step">In your last measurement week your blood pressure was %s mmHg. Your home blood pressure target is %s mmHg.</string>
+    <string name="pt_tpa21_change_med_dose1">Is it normal to change medication dose?</string>
+    <string name="pt_tpa21_change_med_dose1_content">It can take time to find the right medication dose, and it\'s normal to go through a trial period to find out which medications work best for you personally.</string>
+    <string name="pt_tpa21_change_med_dose2">Is it normal to change medication dose?</string>
+    <string name="pt_tpa21_change_med_dose2_content">It can take time to find the right medication dose, and it\'s normal to go through a trial period to find out which medications work best for you personally.\n\nMoving to the next step in your plan is a natural part of the process to help you best manage your blood pressure.</string>
+    <string name="pt_tpa21_dont_agree_content">If you decide to reject the next medication step, please contact your GP Practice to discuss your needs.</string>
+    <string name="tpa21_has_recommend">Your clinician has recommended that you move to the next step in your medication plan.</string>
+    <string name="tpa21_target_bp">%s mmHg</string>
+    <string name="tpa21_avg_bp">%s mmHg     %s bpm</string>
+    <string name="pt_tpa21_why_next_step_content">Why should I move to the next step?</string>
+    <string name="pt_tpa21_dont_agree">What happens if I don\'t agree?</string>
+    <string name="pt_tpa21_why_reject_dialog">Please help xxx to understand why you reject the next step.</string>
+    <string name="pt_tpa21_dialog_reject_desc_continue">You have chosen not to proceed with changes recommended by your doctor. \n\n\n\nYour doctor has received your message and may get in touch with you. In the meantime you will continue with your current treatment plan.</string>
+    <string name="next_med_happen_now">Moving to the next step in your medication plan can help you to achieve blood pressure control.</string>
+    <string name="tpa4_reviewer">%s has reviewed your medication plan and recommended a change in your plan.</string>
+    <string name="target_home_blood_pressure">Target Home Blood Pressure</string>
+    <string name="pta21_you_bp_desc">Your average blood pressure in the last measurement week was above your target.</string>
+    <string name="average_blood_pressure">Average blood pressure:</string>
+
+    <string name="MedicationPlanChange_Content_1">Your clinician has recommended that you move to the next step in your medication plan.\n\nMoving to the next step will help you to reach your home blood pressure target, or help to reduce any symptoms that you have reported.\n\nYour average home blood pressure in the latest measurement cycle was %s/%s mmHg .</string>
+    <string name="MedicationPlanChange_Content_2">Your personal blood pressure target is %s/%s mmHg.\n\nIf you decide to reject the next medication step it is recommended to contact your GP Practice to discuss the next steps to proceed with treatment.</string>
+    <string name="tpa4_msg_doctor">Your average home blood pressure in the latest measurement cycle was %s mmHg which is above the target set by your doctor. %s has set a home blood pressure target of %s mmHg</string>
+    <string name="tpa4_learn_more_desc_reject">If you decide to reject the next medication step it is recommended to contact your doctor to discuss the next steps to proceed with treatment.</string>
+    <string name="default_notification_channel">default_channel_gp</string>
+    <string name="default_foreground_notification_channel">default_foreground_notification_channel</string>
+    <!-- Next medication step end -->
+    <!-- Contact Gp Office Tpa-6 Start-->
+    <string name="tpa5_learn_more_recommend">Your clinician has recommended to change your current medication plan.\n\nFollowing your clinicians\u0027s recommendation will help you reach your home blood pressure target</string>
+    <string name="tpa5_reject">If you decide to reject the changes it is recommended to contact your clinician to discuss the next steps to proceed with treatment.</string>
+    <!-- Contact Gp Office Tpa-6 End-->
+    <string name="pta_6_phone">Phone Number (%s - %s)</string>
+    <string name="log_api_format">REQUEST: %s, RESPONSE: %s</string>
+
+    <!-- Blood Pressure Graph Start -->
+    <string name="measurement">Measurement</string>
+    <string name="next_measurement_week_new">Next Measurement Week : Start on %s</string>
+    <string name="mw_avg_of">Avg. of %s</string>
+    <string name="complete_good_job">Completed, Good Job!</string>
+    <string name="date_next_bp">7 Dec - 20 Dec</string>
+    <string name="gpaph00v02_1">Starting Measurement Week in</string>
+    <string name="starting_measurement">Starting Measurement Week in</string>
+    <string name="gpaph00v02_2">days.</string>
+    <string name="days">days.</string>
+    <string name="day">day.</string>
+    <string name="pt_cre_6_send_sms_verify">We have the following information on file:</string>
+    <string name="pt_cre_6_message">If this is information is correct, tap on Send SMS to complete verification of your account\n\nNot you? Tap on \u0027Cancel Registration\u0027 and contact your GP.</string>
+    <string name="take_bp_everyday_before">Take your BP everyday morning and evening.</string>
+
+    <!-- Blood Pressure Graph End -->
+    <!-- Measurement Week Start -->
+    <string name="result">Result</string>
+    <string name="gpaph01v13">Incomplete</string>
+    <string name="gpaph01v13_0">Measurement Week not completed. You did not take enough measurements during your measurement week.</string>
+    <string name="gpaph01v13_1">What happens now?</string>
+    <string name="gpaph01v13_2">Your doctor needs your blood pressure data to make sure that you have the best possible treatment plan for you.\nNext month we will ask you again to complete a measurement week.</string>
+    <string name="gpaph01v13_3">Tap here to learn more about blood pressure targets from the NHS.</string>
+    <string name="gpaph01v13_4"><u>Tap here</u> to learn more about the importance of blood pressure control from the NHS.</string>
+    <string name="gpaph01v13_5">Remember:</string>
+    <string name="gpaph01v13_6">Always follow your clinician\'s advice, and if you have questions or concerns, contact your GP practice in your usual way.</string>
+
+    <!-- Above target start -->
+    <string name="gpaph01v10">Your blood pressure is above your target.</string>
+    <string name="gpaph01v10_1">What happens now?</string>
+    <string name="gpaph01v10_2">Your clinician will review your results along with your monthly questionnaire and may ask you to move to the next step in your medication plan.</string>
+    <string name="gpaph01v10_3">Want to learn more?</string>
+    <string name="gpaph01v10_4">%s to learn more about blood pressure targets from the NHS.</string>
+    <string name="gpaph01v10_5">Remember:</string>
+    <string name="gpaph01v10_6">Always follow your clinician\'s advice, and if you have questions or concerns, contact your GP practice in your usual way.</string>
+    <!-- Above target end -->
+    <string name="gpaph01v10_08">Pulse</string>
+
+    <!-- During the week -->
+    <string name="gpaph01v05_1">What is a Measurement Week?</string>
+    <string name="gpaph01v05_2">Try to measure your blood pressure every morning and evening this week.</string>
+    <string name="gpaph01v05_3">What happens if I miss a day?</string>
+    <string name="gpaph01v05_4">Don\'t worry, just continue measuring the next day. We will extend your measurement week by up to 7 days to allow you to catch up!</string>
+    <string name="gpaph01v05_5">What happens with the data?</string>
+    <string name="gpaph01v05_6">Your clinician uses this data to review your treatment plan.</string>
+    <string name="gpaph01v05_6_title">How is the timing of my next measurement week decided?</string>
+    <string name="gpaph01v05_6_content">If your blood pressure is under control (within the target set for you by your clinician), you may be asked to do your measurement week less frequently. \nEven if your measurement week is less frequent, we recommend to continue monitoring your blood pressure and adding it to Hypertension Plus so that you can keep track of your health.</string>
+    <string name="gpaph01v05_7">Want to learn more?</string>
+    <string name="gpaph01v05_8"><u>Tap here</u> to learn more about blood pressure targets from the NHS.</string>
+    <string name="gpaph01v05_8_starting"><u>Tap here</u> to learn more from the NHS about home blood pressure monitoring.</string>
+    <string name="gpaph01v05_9">Remember:</string>
+    <string name="gpaph01v05_10">Always follow your clinician\'s advice, and if you have questions or concerns, contact your GP practice in your usual way.</string>
+
+    <!-- During the week end -->
+
+    <string name="gpaph01v03_2">During your measurement week you should measure your blood pressure in the morning and the evening every day.</string>
+    <string name="gpaph01v03_3">What happens with the data?</string>
+    <string name="gpaph01v03_4">Taking a series of measurements throughout the week gives the most accurate picture of your blood pressure.\n\nYour blood pressure readings from your Measurement Week are used by your clinician to support decisions about your treatment.</string>
+    <string name="gpaph01v03_5">Want to learn more?</string>
+    <string name="gpaph01v03_6">%s to learn more from the NHS about home blood pressure monitoring.</string>
+    <string name="gpaph01v03_7">Remember:</string>
+    <string name="gpaph01v03_8">Always follow your clinician\'s advice, and if you have questions or concerns, contact your GP practice in your usual way.</string>
+
+    <string name="tap_here">Tap here</string>
+    <string name="content_medication_schedule">Set the time you would like to receive a notification reminder for taking your medications.</string>
+    <!-- Measurement Week End -->
+    <string name="remindersButton">Reminders</string>
+    <string name="pt_tpa_update_med_success">Your medication schedule has been updated</string>
+    <!-- Home info 6 start -->
+    <string name="title_home_info_6">Avg. of 7 Dec - 20 Dec</string>
+    <string name="mess_err_full_character_duplicate">Please enter another mobile number.</string>
+    <string name="mess_err_phone">Phone number must be less than 20 characters</string>
+    <string name="task_done">1 task done</string>
+    <string name="scheme">gppatient</string>
+    <string name="scheme_host">intro</string>
+    <string name="scheme_host_nhs">nhs_login</string>
+    <string name="register_nhs">Tap the button to log in with or sign up for NHS login</string>
+    <string name="here">Click here</string>
+    <string name="confirm_logout">Are you sure you want to log out?</string>
+    <string name="return_splash">Close</string>
+    <string name="logout">Logout</string>
+    <string name="logout_internet_error">Internet connection is required to logout. Please check your network connection and try again.</string>
+    <string name="nhs_increase_level_link">NHS website for more information and verify your identity</string>
+    <string name="gpapi00o00_9">Update Notice</string>
+    <string name="gpapi00o00_10">OMRON Viso is now using NHS Login. Moving forward you will use NHS Login to authenticate yourself in the OMRON Viso app. NHS Login helps to keep your information secure and private.\n\nIf you have not yet set up your NHS Login, you will find instructions on how to set it up on the next screen.</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="select_video">Select Video</string>
+    <string name="ContinueNHSButton">Continue with NHS login</string>
+    <string name="nhs_login_internet_error">An internet connection is required to login with NHS. Please check your network connection and try again.</string>
+
+    <string name="time_current_step">%s - %s</string>
+    <string name="leave">Leave</string>
+    <string name="no">No</string>
+    <string name="waitingForUpdate">Waiting for update</string>
+    <!-- Home info last start-->
+    <string name="gpapi0ht08_12">Unfortunately you did not complete the required measurement days.</string>
+    <string name="gpapi0ht08_14">Next Week : Start on 7 Jan</string>
+    <!-- Home info last end-->
+
+    <string name="systolic_value"><![CDATA[Avg. Systolic <font color="#FFFFFF"><b>%s</b></font> %s]]></string>
+    <string name="diastolic_value"><![CDATA[Avg. Diastolic <font color="#FFFFFF"><b>%s</b></font> %s]]></string>
+    <string name="note_third_measurement">New measurement needed.\n\nBased on your last measurement result we would like you to measure your blood pressure again.\n\nPlease wait 5 minutes, measure your blood pressure again, and then record the result on the this screen within 20 minutes.</string>
+
+    <string name="contact_by_email">Contact by Email</string>
+    <string name="choose_format">Choose file format for inquiry mail</string>
+    <string name="confirm_email_description">If you don\'t receive the email, please check the following.\n- The email might be in your junk email folder.</string>
+    <string name="choose_format_description">When creating an inquiry mail, attaching the log file may fail depending on the email app you use. if the log file is not attached, please select another file format and try again.</string>
+    <string name="choose_format_a">Format A (content://)</string>
+    <string name="choose_format_b">Format B (File Provider)</string>
+    <string name="measurement_week">Measurement Week</string>
+    <string name="treatment_plan_has_been_changed">Your clinician has updated your treatment plan. Please return to HOME to view changes.</string>
+    <string name="gpaph03v17_1">Next Step: STEP %d</string>
+    <string name="MedicineDataChange">Your clinician has updated your treatment plan. Please return to HOME to view changes.</string>
+    <string name="information">Information\u0020</string>
+    <string name="SMSCodeExpired">The code you entered has expired. Please click to resend SMS code and try again.</string>
+    <string name="Setting_NoInternetContactInformation">Internet connection required to update GP Practice information. Please check your network connection and try again.</string>
+    <string name="TreatmentPlanNeedInternetConnection">Internet connection is required to update the treatment plan. Please check your network connection and try again.</string>
+    <string name="ConfirmLeave">Changes you made will not be saved. Do you want to leave?</string>
+
+    // talkback
+    <string name="omronImage">Omron image</string>
+    <string name="completeTask">Completed</string>
+    <string name="instructionIcon_account">Information on how to activate Hypertension Plus account</string>
+    <string name="HypertensionPImage">Hypertension Plus image</string>
+    <string name="signIn">Signin button</string>
+    <string name="backArrowButton">Back</string>
+    <string name="checkboxIcon">Checkbox</string>
+    <string name="playButton">Play</string>
+    <string name="pauseButton">Pause</string>
+    <string name="fullScreenButton">Fullscreen</string>
+    <string name="minimizeButton">Minimize</string>
+    <string name="editbox">editbox</string>
+    <string name="error_input">%s is a %s</string>
+    <string name="Add_your_Feedback">Add your Feedback</string>
+    <string name="VisibleButton">Show password on screen, %s, double tap to change the value</string>
+    <string name="Selected">Selected</string>
+    <string name="Deselected">Deselected</string>
+    <string name="Checked">Checked</string>
+    <string name="NotChecked">Not Checked</string>
+    <string name="ContactOMRONLink">Contact OMRON Customer Service</string>
+    <string name="LetsstartImage">Let\'s start image</string>
+    <string name="selectDateButton">%s button</string>
+    <string name="InfoIcon_tutorialButton">Information icon in tutorial</string>
+    <string name="ArrowIcon">Arrow pointing at information icon</string>
+    <string name="InfoIcon">ⓘ</string>
+    <string name="InfoText">Information icon</string>
+    <string name="tutorialIntro">This is your home screen. Tap on the information icon to take a tour.</string>
+    <string name="closeXButton">Close</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="per">per</string>
+    <string name="over">&#160;over&#160;</string>
+    <string name="no_data_mmhg">ー/ー mmHg</string>
+    <string name="no_data">no data</string>
+    <string name="measurement_week_button">Measurement week %s button</string>
+    <string name="change_time">change time</string>
+    <string name="change_value">change value</string>
+    <string name="open_link">open link</string>
+    <string name="open_weblink">open weblink</string>
+    <string name="task_undone">%s task undone</string>
+    <string name="InfoIcon_homeButton">Information on how to use the home screen</string>
+    <string name="InfoIcon_Questionnaire">You can confirm the purpose of questionnaire by double tapping information icon</string>
+    <string name="homeScreenImage">Image of home screen in tutorial</string>
+    <string name="homeScreen2Image">Image of home screen in tutorial highlighting home banner</string>
+    <string name="homeScreen3Image">Image of home screen in tutorial highlighting a measurement task</string>
+    <string name="homeScreen4Image">Image of home screen in tutorial highlighting a medication task</string>
+    <string name="homeScreen5Image">Image of home screen in tutorial highlighting daily questionnaire</string>
+    <string name="homeScreen6Image">Image of home screen in tutorial with menu open</string>
+    <string name="homeScreen7Image">Image of reminders screen in tutorial</string>
+    <string name="measurementWeekImage">Measurement week card prior to the start of the week</string>
+    <string name="measurementWeek2Image">Measurement week card during the week</string>
+    <string name="measurementWeek3Image">Measurement week card after it is completed</string>
+    <string name="measurementWeek4Image">Measurement week card if it was missed</string>
+    <string name="ArrowIcon_task">Arrow pointing at highlighted task</string>
+    <string name="InfoIcon_BPButton">Information on how to use the blood pressure screen</string>
+    <string name="mmtTutorialIntro">Click on the information icon to learn how to use the measurements screen.</string>
+    <string name="mmtScreenImage">Image of measurements screen in tutorial</string>
+    <string name="mmtScreen2Image">Image of measurements screen in tutorial highlighting vital sign selection drop-down menu</string>
+    <string name="mmtScreen3Image">Image of measurements screen in tutorial highlighting calendar and graph icons</string>
+    <string name="mmtScreen4Image">Image of measurements screen in tutorial highlighting calendar</string>
+    <string name="mmtScreen5Image">Image of measurements screen in tutorial highlighting calendar on a selected day</string>
+    <string name="mmtScreen6Image">Image of measurements screen in tutorial highlighting add measurement button at bottom</string>
+    <string name="mmtScreen7Image">Image of measurements screen in tutorial highlighting graph view</string>
+    <string name="InfoIcon_MedButton">Information on how to use the medication screen</string>
+    <string name="MedTutorialIntro">Tap on the information icon to explore the medication tab</string>
+    <string name="MedScreenImage">Image of medication screen in tutorial</string>
+    <string name="MedScreen2Image">Image of medication screen in tutorial highlighting the calendar</string>
+    <string name="MedScreen3Image">Image of medication screen in tutorial highlighting calendar on a selected day</string>
+    <string name="MedScreen4Image">Image of medication screen in tutorial highlighting medication input section</string>
+    <string name="MedScreen5Image">Image of medication screen in tutorial highlighting medication list button</string>
+    <string name="MedScreen6Image">Image of medication list screen in tutorial</string>
+    <string name="SettingIconButton">Settings</string>
+    <string name="MeasurementWeek_Doing">Measurement week banner. %s measurements completed. Tap for more information</string>
+    <string name="MeasurementWeek_Done">Measurement week banner. Completed measurement week. Tap for more information</string>
+    <string name="MeasurementWeek_Missed">Measurement week banner. Missed measurement week. Tap for more information</string>
+    <string name="MeasurementWeek_Prior">Measurement week banner. Prior to the start of measurement week. Tap for more information</string>
+    <string name="TakeYourBP">Take your Blood Pressure every morning and evening.</string>
+    <string name="LeftArrow_date">Previous date</string>
+    <string name="RightArrow_date">Next date</string>
+    <string name="LeftArrow_calendar">Previous %s</string>
+    <string name="RightArrow_calendar">Next %s</string>
+    <string name="calendarMonday">Monday</string>
+    <string name="calendarTuesday">Tuesday</string>
+    <string name="calendarWednesday">Wednesday</string>
+    <string name="calendarThusday">Thursday</string>
+    <string name="calendarFriday">Friday</string>
+    <string name="calendarSaturday">Saturday</string>
+    <string name="calendarSunday">Sunday</string>
+    <string name="completedTaskAvaiable">completed tasks available</string>
+    <string name="notCompletedTaskAvaiable">blood pressure not measured</string>
+    <string name="takenAvaiable">Taken available</string>
+    <string name="medicationNotTaken">Medication not taken</string>
+    <string name="UpArrowbelowcalendarButton">Collapse calendar</string>
+    <string name="DownArrowbelowcalendarButton">Expand calendar</string>
+    <string name="TrashbinButton">Delete blood pressure reading taken on %s at %s</string>
+    <string name="MedInfoIcon">%s Information</string>
+    <string name="GraphInfoIcon">Information on how to use the blood pressure screen</string>
+    <string name="SYSInputField">Systolic blood pressure</string>
+    <string name="DIAInputField">Diastolic blood pressure</string>
+    <string name="PulseInputField">Pulse</string>
+    <string name="radioButtons">Radio button</string>
+    <string name="switchButtons">Switch button</string>
+    <string name="switchButtonsOn">On</string>
+    <string name="switchButtonsOff">Off</string>
+    <string name="treatmentPlanLearnMoreButton">Learn More about why you are being asked to change your treatment plan</string>
+    <string name="medicationScreenLearnMoreButton">Learn More about your medication plan button</string>
+    <string name="addBPLearnMoreButton">Learn more about taking an accurate blood pressure reading button</string>
+    <string name="Link">Link</string>
+    <string name="WebLink">WebLink</string>
+    <string name="Button">button</string>
+    <string name="DimmedButton">dimmed button</string>
+    <string name="SelectedDate">Selected Date</string>
+    <string name="UnSelectedDate">Unselected Date</string>
+    <string name="Avg_SYS">Average Systolic</string>
+    <string name="Avg_DIA">Average Diastolic</string>
+    <string name="Avg_PULSE">Average Pulse</string>
+    <string name="mw_average_of">Average of %s</string>
+    <string name="add_bp_description">Let\u0027s add your first blood pressure reading for your measurement week.\nTap on the \u0027Add Blood Pressure\u0027 button to get started!</string>
+
+    // exo video player
+    <string name="title_retry">Try Again!</string>
+    <string name="ascii_digits"><![CDATA[!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ [\]^_`abcdefghijklmnopqrstuvwxyz{|}~]]>\"\\</string>
+
+    // Postural Drop/Postural Hypertension
+    <string name="PosturalHypotensionTitle">Take Your Blood Pressure When Standing</string>
+    <string name="PosturalHypotensionText">Always take your blood pressure when standing.\n\nThis is because your blood pressure is lower when standing compared to sitting, a condition called Postural Hypotension.\n\nPlease wait at least 2 minutes after standing to take your blood pressure, and make sure that your arm is supported.\n\n If you have questions please contact your GP Surgery.</string>
+    <string name="SSLHandshakeException">Unable to communicate with the server, please check your device\'s date and time.</string>
+    <string name="TimeoutException">Poor network connection. Please check network connection and re-open Hypertension plus</string>
+
+    <string name="title_error_card_changed">The data has been changed.</string>
+    <string name="content_error_card_changed">Another user edited this record and save the changes before you attempted to save your changes. Please refresh the page and try again.</string>
+
+    // resource text serves to display action card notifications
+    // DON\'T DELETE, DONT EDIT NAME
+    <string name="ACTION_TYPE_1">Your clinician has recommended you move to the next medication step. Tap here to find out more.</string>
+    <string name="ACTION_TYPE_2">Your new prescription is available.</string>
+    <string name="ACTION_TYPE_3">Your medication plan has changed</string>
+    <string name="ACTION_TYPE_4">A new medication plan is available for you.</string>
+    <string name="ACTION_TYPE_5">Message from your clinician. Tap here to read more.</string>
+    <string name="ACTION_TYPE_6">You have an incomplete Questionnaire waiting to be submitted.</string>
+    <string name="ACTION_TYPE_10">A new health questionnaire is available. Please complete it today!</string>
+    <string name="ACTION_TYPE_12">Scheduled reminder: %s test.</string>
+    <string name="ACTION_TYPE_14">Your measurement week cycle has been changed.</string>
+    <string name="ACTION_TYPE_20">Please schedule a Blood and Urine test.</string>
+    <string name="ACTION_TYPE_20_1">Please schedule a Blood test.</string>
+    <string name="ACTION_TYPE_20_2">Please schedule a Urine test.</string>
+    <string name="ACTION_TYPE_20_3">Please schedule a Blood and Urine test.</string>
+    <string name="ACTION_TYPE_13">Your clinician has recommended a medication plan for you based on the recent blood pressure.</string>
+
+
+    <string name="nhs_login_account_management">NHS Login Account Management</string>
+
+    <string name="message_update_term">Our Terms of Use has been updated. Please carefully review our latest Terms of Use.</string>
+    <string name="message_privacy_policy">Our Privacy Policy has been updated. Please carefully review our latest Privacy Policy.</string>
+    <string name="title_update_term">Updated Terms</string>
+    <string name="title_update_privacy_policy">Updated Privacy Policy</string>
+    <string name="update_privacy_policy">Update Privacy Policy Preference</string>
+    <string name="title_change_update_privacy_policy">Privacy Policy</string>
+    <string name="privacyset3">Please carefully review our latest Privacy Policy.</string>
+
+
+    <string name="tiltle_change_medication">New Medication Accepted</string>
+
+    <string name="gpaph03v10_1">Medication Change: Accepted</string>
+    <string name="gpaph03v10_2">Next medication step: Accepted</string>
+    <string name="gpaph03v10_3">New medication plan: Accepted</string>
+    <string name="gpaph03v10_4">Medication Change: Rejected</string>
+    <string name="gpaph03v10_5">Next medication step: Rejected</string>
+    <string name="gpaph03v10_6">New medication plan: Rejected</string>
+    <string name="gpaph03v10_7">Review new/change in medication: Accepted</string>
+    <string name="gpaph03v10_8">Review new/change in medication: Rejected</string>
+
+    <string name="not_available">Not available</string>
+    <string name="got_it_button_confirm">Got it</string>
+
+    <string name="Reauthentication1">Reauthentication</string>
+    <string name="Reauthentication2">Quick reauthentication method</string>
+    <string name="Reauthentication3">Use another reauthentication method</string>
+    <string name="Reauthentication4">Change PIN Code</string>
+    <string name="aboutPrivacyPolicy">About Privacy Policy</string>
+    <string name="lastestPolicyDescription">Please carefully review our latest Privacy Policy.</string>
+
+    <string name="noMedicationTitle">Your clinician has not added a medication plan for you in Hypertension Plus.</string>
+    <string name="noMedicationMsg">Your clinician has not added a medication plan for you in OMRON Viso.\n\nIf you are currently taking medication, please continue to do so according to your clinician\'s instructions.\n\nIf your clinician creates a medication plan in OMRON Viso in the future, the details will be shown here.</string>
+    <string name="medicationPlanLabel">Medication plan</string>
+    <string name="startMedicationMsg">%s has reviewed your recent blood pressure and recommended a medication plan for you.</string>
+
+    <string name="gpaph00v16">Start medication plan</string>
+    <string name="accept_plan_no_medication">If you accept the plan, you will be following %s.</string>
+    <string name="tiltle_no_medication">Start medication plan: Accepted</string>
+
+    <string name="starting_in_weeks">starting in about %s weeks</string>
+    <string name="starting_in_months">starting in about %s months</string>
+    <string name="starting_measurement_week">Starting Measurement Week in about</string>
+    <string name="starting_measurement_month">Starting Measurement Week in about</string>
+
+    <string name="gpaph01v13_1_1">Measurement Week In Complete.</string>
+
+    <string name="startMedicationMsg_2">If you accept the plan, you will be following %s</string>
+    <string name="ohe4086_tap_here_to_learn_more">Tap here to learn more about why you have received this new medication plan.</string>
+    <string name="ohe4086_hint_feedback">Enter your feedback for doctor</string>
+    <string name="ohe4086_description_info_page">As with all medications, there is a possibility of side-effects with anti-hypertensive medications.\n\nPlease read and acknowledge the available information from NHS about your new medication before accepting.</string>
+    <string name="ohe4086_description_check_box_info_page">To accept, mark this checkbox to indicate that you understand the information about your new medication(s)</string>
+    <string name="ohe4086_learn_more_about">Learn more about %1$s</string>
+
+    <string name="newMWCycleTitle">Your next measurement week</string>
+    <string name="newMWCycleMsg">Based on the blood pressure readings that you have shared with your clinician, your next measurement week will start in %1$s.\n\nWe recommend to continue to monitor your blood pressure with Hypertension Plus between your measurement weeks to help you keep track of your health.\n\nWhy has my measurement week schedule changed?\n\nIf your blood pressure was above your target in the last measurement week, you will be asked to submit more frequent readings until you reach your blood pressure target.\n\nIf your blood pressure was within your target in the last 2 measurement weeks, you have good control of your blood pressure and will be asked to submit readings less frequently.</string>
+    <string name="about_weeks">about %d weeks</string>
+    <string name="about_months">about %d months</string>
+    <string name="NewMWnoInternet">Internet connection is required to view this action card. Please check your network connection and try again.</string>
+    <string name="NewMedicationPlan_ContinueCurrentTreatmentPlanMessage">You have chosen not to proceed with changes recommended by your clinician. \n\n\n\nYour clinician has received your message and may get in touch with you. In the meantime you will continue with your current treatment plan.</string>
+    <string name="verification">Verification</string>
+    <string name="marker_avg"><![CDATA[Avg. <font color="#FFFFFF"><b>%s</b></font> %s]]></string>
+    <string name="marker_pulse"><![CDATA[Avg. <font color="#FFFFFF"><b>%s</b></font> bpm]]></string>
+    <string name="marker_weight"><![CDATA[Avg. <font color="#FFFFFF"><b>%s</b></font> kg]]></string>
+    <string name="all_select_time">Select time</string>
+    <string name="addWeightInstruction">Enter your reading and check that you have entered the time of measurement and values correctly.</string>
+    <string name="all_kg">kg</string>
+    <string name="gpapb02v03_1">Taking an Accurate Weight Measurement</string>
+    <string name="gpapb02v05_1">- You will be asked for 1 reading.\n- Take them just before a meal or 2 hours after a meal.\n- Your result will be shared with your GP.</string>
+    <string name="HypertensionProgramme">Hypertension Programme</string>
+    <string name="gpaph05v03_0">Contact GP!</string>
+    <string name="gpaph05v03_1">Please contact your GP surgery or out of hours service as soon as possible to discuss your latest blood pressure readings.</string>
+    <string name="gpaph05v03_2">Contact Information</string>
+    <string name="numberOfMeasurements">Number of Measurements</string>
+
+    <string name="measurementTimesCountUnit">time(s) / %d times</string>
+    <string name="missed">Missed</string>
+    <string name="singleTask">there is 1 task</string>
+    <string name="multipleTasks">there are %d tasks</string>
+    <string name="homeBanner2">Hi %s, %s for you to complete.</string>
+    <string name="homeBanner2EmptyName">Hi, %s for you to complete.</string>
+    <string name="gpaph00v01_2">Take control of your health today.</string>
+    <string name="gpaph00v01_3">Well done!\nYou have no more tasks for today.</string>
+    <string name="tellHCP">Time to tell %s how you are doing</string>
+    <string name="yourClinician">your clinician</string>
+    <string name="task">task</string>
+    <string name="tasks">tasks</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="treatment_plan">Treatment Plan</string>
+    <string name="other_medication">Other Medication</string>
+
+    <string name="createAccountWithEmail">Create account with email address</string>
+    <string name="all_login">Login</string>
+
+    <string name="authentication_title">Reauthentication Method</string>
+    <string name="authentication_face">Face/Fingerprint Authentication</string>
+    <string name="authentication_finger">Fingerprint</string>
+    <string name="authentication_success">Register authentication successful</string>
+
+
+    <string name="d_d" translatable="false">%d / %d</string>
+    <string name="gpapi00o00_7">Welcome to OMRON Viso. \nYou can use OMRON Viso by logging in with your NHS login.</string>
+    <string name="welcomeDialogNote">Note : OMRON Viso can only be accessed with an invite from your doctor. If you did not receive an invite from your doctor, contact your doctor to confirm availability in your area.</string>
+    <string name="gpapi00o26_1">Let\'s Explore\nOMRON Platform</string>
+    <string name="gpapi00o00_8">Note : OMRON Viso can only be accessed with an invite from your doctor. If you did not receive an invite from your doctor, contact your doctor to confirm availability in your area.</string>
+
+    <string name="introduce_title">OMRON Viso</string>
+    <string name="introduce_description">OMRON Viso Service is a remote patient mornitoring program to enable your doctor to stay up-to-date on your health.</string>
+    <string name="introduce_login_with_email">Login with email address</string>
+    <string name="extraMeasurementNote">Based on your last measurement result we would like you to measure your blood pressure again after 5 minutes. Record your results on this screen within 20 minutes.</string>
+    <string name="takeMeasurementImage">Taking an Accurate\nBlood Pressure Measurement</string>
+    <string name="gpapb02v05_0">- You will be asked for 2 readings.\n- Take them at least 1 minutes apart.\n- Average blood pressure will be shared with your GP.</string>
+    <string name="takeBloodPressureMeasurementTutorial1">- You will be asked for 2 readings.</string>
+    <string name="takeBloodPressureMeasurementTutorial2">- Take them at least 1 minute and at maximum 10 minutes apart.</string>
+    <string name="takeBloodPressureMeasurementTutorial3">- Average blood pressure will be shared with your GP.</string>
+    <string name="addBPGuide">How to Take an Accurate Blood Pressure Measurement</string>
+    <string name="ContactGPOffice">Message from your doctor</string>
+    <string name="programmeTerminated">Programme Terminated</string>
+    <string name="hometask001">Measure Weight</string>
+    <string name="hometask002">About your next measurement</string>
+    <string name="hometask003">Review new/change in medication</string>
+    <string name="hometask004">Message from your clinician</string>
+    <string name="hometask005">Schedule %s Test</string>
+    <string name="hometask006">Schedule Urine Test</string>
+    <string name="hometask007">%s Test Reminder</string>
+    <string name="hometask008">Urine Test Reminder</string>
+    <string name="hometask009">%s test request canceled</string>
+    <string name="hometask010">Review new programme</string>
+    <string name="hometask011">Programme terminated</string>
+    <string name="hometask012">Measure Atrial Fibrillation</string>
+    <string name="MeasureWeightActionCardTime">%s Weight Result</string>
+    <string name="MeasureBPActionCardResult">%s Blood Pressure Result</string>
+    <string name="reviewNewMedication">Review new medication</string>
+    <string name="reviewedNewMedication">Review new medication</string>
+    <string name="test_request_cancel">Test Request Cancelled</string>
+    <string name="test_requestcancel_description">The %1$s test request sent to you has been cancelled. Other tasks and reminders related to this %2$s test will also be removed from your task list. If you have already scheduled your test appointment, please remember to call the test center to cancel it as well. If you have any questions, please contact your HCP.</string>
+    <string name="hometask010_title">Review New Programme</string>
+    <string name="hometask010_done">Reviewed new programme</string>
+    <string name="sTestRequest">%s Test Request</string>
+    <string name="contentCardWeightIndex">%s kg</string>
+    <string name="required_field">Required field</string>
+    <string name="edit_weight">Edit Weight</string>
+    <string name="update_medication_schedule">Update medication schedule</string>
+    <string name="gpaph04v001">Update medication schedule</string>
+    <string name="editThisLater">You can always edit this later from\n<b>Home > Menu > Reminders</b>.</string>
+    <string name="updated_medication_schedule">Updated Medication Schedule</string>
+    <string name="stepMedicationNumber">STEP%d</string>
+    <string name="medicationChange">Review New Medication</string>
+    <string name="messageFromHCPApprover">Message from %s</string>
+    <string name="messageReviewNewMedicationLearnMore">Tap here to learn more about why you need a new medication plan.</string>
+    <string name="whyDoINeedNewMedicationPlan">Why do I need a new medication plan?</string>
+    <string name="newMedGuideExplain">%s recommends a change in medication of the next step.\nYour average home blood pressure in the latest measurement cycle was %s/%s mmHg.\nThe change in medication will help you reach your home blood pressure target and help to reduce any symptoms that you have reported.</string>
+    <string name="updatedMedication">Updated medication</string>
+    <string name="noteAcceptMedication">If you accept, your medication will be immediately updated</string>
+    <string name="descriptionChangeOnOtherPrograms">%s has reviewed your current medication and recommended a change in your plan.</string>
+    <string name="contactGPOffice">Contact GP</string>
+    <string name="contactedGPOffice">Contacted GP</string>
+    <string name="contactYourGPSurgery">Contact Your GP Surgery</string>
+    <string name="MeasureBPActionCardResultTime">%s Blood Pressure Result</string>
+    <string name="descriptionProgrammeTerminated">Your GP has removed you from the Heart Confirm Failure programme. Please acknowledge the programme termination by tapping the “OK” button below. Your task lists will be updated after that. If you have any questions about the termination, please contact your GP to discuss them. </string>
+    <string name="completeQuestionnaire">Complete Questionnaire</string>
+    <string name="text_test_request_cancelled">%s Test Request Cancelled</string>
+    <string name="title_test_request_cancelled">Test Request Cancelled</string>
+    <string name="content_test_request_cancelled">The %1$s test request sent to you has been cancelled. Other tasks and reminders related to this %2$s test will also be removed from your task list. If you have already scheduled your test appointment, please remember to call the test center to cancel it as well. If you have any questions, please contact your HCP.</string>
+    <string name="SameButton">Same</string>
+    <string name="BetterButton">Better!</string>
+    <string name="WorseButton">Worse</string>
+    <string name="GoodButton">Good!</string>
+    <string name="BadButton">Bad…</string>
+    <string name="DailyQ_1">How do you feel today?</string>
+    <string name="DailyQ_2">How are % today?</string>
+    <string name="DailyQ_3">Other than %, how do you feel today?</string>
+    <string name="DailyQ_4">Glad to hear you are doing well today! If there is any change in your condition, please call your clinician.</string>
+    <string name="DailyQ_5">Do you have worsening or new chest pain?</string>
+    <string name="DailyQ_6">Have you felt very light-headed and unsteady or even blacked out?</string>
+    <string name="DailyQ_7">Do you have diarrhoea or vomiting for more than 24 hrs?</string>
+    <string name="DailyQ_8">Do you have symptoms of an infection and/or do you feel very unwell?</string>
+    <string name="DailyQ_9">Have you had to increase your dose of water tablet (diuretic) in the past week?</string>
+    <string name="DailyQ_10">Are you feeling more breathless than usual? Or at night, do you need more pillows to sleep on?</string>
+    <string name="DailyQ_11">Are your legs or abdomen more swollen than before?</string>
+    <string name="DailyQ_12">Over the last few days, do you find yourself being less able to go around doing the usual things you do?</string>
+    <string name="DailyQ_13">How are your swollen legs today?</string>
+    <string name="DailyQ_14">Apart from your %s how are you feeling today?</string>
+    <string name="questionnairePopupWarningContent">Please contact your GP Surgery as soon as possible to discuss your blood pressure reading. \n\nA new task, “ContactGP” has been added to your task list. This task will remain in your task list until completed.</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="record_not_change_weight">No changes have been made (to the weight reading)</string>
+
+    //NHS Error
+    <string name="gpapi00o00_3">To use OMRON Viso, you must be invited by a Healthcare Professional.\n\nIf you have received an invitation but are not able to log in, please contact your GP Practice to confirm your details.\n\nYou will be logged out of NHS login when you press the button below.</string>
+    <string name="gpapi00o00_4">To use OMRON Viso, you need to complete an ID check and verify your identity to a high level with NHS login.\n\nIf you have already done so, it may take a few hours for NHS login to process your ID check. You will receive a confirmation email if your ID check has been successful.\n\nPlease log in to OMRON Viso after you have received the confirmation email.\n\nYou will be logged out of NHS login when you press the button below.</string>
+    <string name="gpapi00o00_5">Welcome to OMRON Viso! Your Healthcare Provider needs to verify your registration before you can use the App. \n\nIf you remain logged in, the App will unlock when your registration has been verified.\n\nIf you continue to see this message for a long time, try logging out and logging in again, or contact your GP Practice to confirm registration.</string>
+    <string name="gpapi00o00_6">OMRON Viso requires the use of NHS login to verify, authenticate and protect your identity. To use NHS login with OMRON Viso, you must consent to sharing your data with OMRON Viso while you are signing in with NHS login.\n\nIf you wish to proceed with OMRON Viso, please tap the button below and sign in again with NHS login.</string>
+    <string name="title">Title</string>
+    <string name="MainView_NoEmail">There is no email program associated to perform this requested action. Please install an email program and try again.</string>
+    <string name="calendar">Calendar</string>
+    <string name="delete">Delete</string>
+    <string name="Reauthentication000">Welcome back!</string>
+    <string name="Reauthentication001">Please unlock with your biometric authentication.</string>
+    <string name="unlockButton">Unlock</string>
+    <string name="msgNoBiometricSetting">In order to activate this feature, go to your device\'s Settings > Security</string>
+    <string name="dialogReAuthenticationSubtitle">Use your biometrics to continue</string>
+    <string name="dialogReAuthenticationDescription">This app uses your makes use of biometric or device password/PIN to authenticate the dialog.</string>
+    <string name="dialogReAuthenticationTitle">Confirm your identity</string>
+
+    //remove account
+    <string name="AccountRemoval1">Account removal</string>
+    <string name="AccountRemoval2">Your clinician has removed your account from OMROM Viso platform, and you will be no longer to access the patient app after you clicked "Got it" button. If you have any questions or concerns, please contact with your GP surgery in the usual way.</string>
+
+    // Viso event Apptentive
+    <string name="event_apptentive_skip_on_boarding">onboarding_skip_%s_video</string>
+    <string name="event_apptentive_return_to_video">onboarding_go_back_to_%s_video</string>
+    <string name="event_apptentive_close_pop_up_measurement">%s_close_info_screen</string>
+    <string name="event_apptentive_exit_adding_measurement">%s_exit_first_screen</string>
+    <string name="event_apptentive_complete_measurement">%s_measurement_completed</string>
+    <string name="event_apptentive_submit_questionnaire">%s_questionnaire_click_confirm</string>
+    <string name="event_apptentive_review_programme_info_oke">review_%s_programme_info_click_ok</string>
+    <string name="event_apptentive_review_programme_next_video">review_%s_programme_video_click_next</string>
+    <string name="event_apptentive_review_programme_addition_info_next">review_%s_programme_additional_info_click_next</string>
+    <string name="event_apptentive_review_programme_terminated_ok">%s_programme_terminated_click_ok</string>
+    <string name="event_apptentive_delete_record">%s_delete_record</string>
+    <string name="event_apptentive_view_calendar_screen">%s_view_calendar_screen</string>
+    <string name="event_apptentive_view_graph_screen">%s_view_graph_screen</string>
+    <string name="gpapi00o00_1">Don\'t have NHS login?\nTap on \'Continue with NHS login\' and fill in your email address to register.</string>
+    <string name="gpapi00o00_2">Tap the button to log in with or sign up for NHS login</string>
+
+    <string name="header_load_ques_fail">Data Loading Fail</string>
+    <string name="des_load_ques_fail">The information is failed to load. Please click OK Button to move back to Home Screen</string>
+    <string name="baseline">Baseline</string>
+    <string name="RecordsHaveSameTime">You have already entered a reading for this time and date. Readings should be at least 1 minute apart.</string>
+    <string name="records_exists">You have already entered a blood pressure reading for this date and time. Please update and try again.</string>
+    <string name="change_email_successful">Your email address has been changed successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
